@@ -25,8 +25,6 @@ Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy numb
 
 **Instructor**: STAT 101, Introductory Business Statistics, Wharton School, University of Pennsylvania, 2016 Summer ([syllabus](https://www.dropbox.com/s/r14xwwclpdzysns/Syllabus-STAT-101-2016-Summer.pdf?dl=0))
 
-**Recitation Lecturer**: STAT 111, Introductory Statistics, Wharton School, University of Pennsylvania, 2014 Fall ([recitation materials](https://sites.google.com/a/cornell.edu/yuchaojiang/home/stat111-fall-2014-yuchao-jiang))
-
 <br>
 
 ### Software
