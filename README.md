@@ -37,6 +37,42 @@ University of North Carolina at Chapel Hill
 
 ## Software
 
+- CODEX: COpy number Detection by EXome sequencing (GitHub, BioC, vignettes)
+
+- Canopy: Copy number and single nucleotide mutation analysis of tumor phylogeny (GitHub, CRAN, vignettes)
+
+- SCALE: Single Cell ALlelic Expression (GitHub, vignettes)
+
+<br>
+
 ## Honors and Awards
 
+- Saul Winegrad Award for Outstanding Dissertation, UPenn, 2017
+
+- President Gutmann Leadership Award, UPenn, Fall 2016
+
+- Best Pre-Doctoral Poster, Symposium on Advances in Genomics, Epidemiology and Statistics (SAGES), 2015
+
+- Biomedical Graduate Studies Fellowship, Perelman School of Medicine, UPenn, 2012 – 2014
+
+- Distinction in Research, Cornell University, 2012
+
+- National Scholarship, Ministry of Education of P.R. China, 2010
+
+<br>
+
 ## Misc
+
+- Finished marathons:
+
+  - 2009 Toray Cup Shanghai International Marathon
+
+  - 2014 GORE-TEX Philadelphia Marathon
+
+  - 2015 Bank of America Chicago Marathon
+
+  - 2016 Rock ‘n’ Roll Philadelphia Marathon.
+
+- I'm a certified open water diver.
+
+- I'm a huge aviation enthusiast. Here is my flight map: OpenFlights. Here are some of the photos I took in travel: Flickr.
