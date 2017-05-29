@@ -1,10 +1,3 @@
-Assistant Professor <br>
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
-[Department of Genetics](http://www.med.unc.edu/genetics/) <br>
-University of North Carolina at Chapel Hill
-
-<br>
-
 ### Education
 
 **PhD**, Genomics and Computational Biology, University of Pennsylvania, 2017; Advisor: [Professor Nancy R Zhang](https://statistics.wharton.upenn.edu/profile/nzh/)
