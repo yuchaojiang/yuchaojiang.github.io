@@ -5,7 +5,7 @@ University of North Carolina at Chapel Hill
 
 <br>
 
-## Education
+### Education
 
 ### Publications
 
