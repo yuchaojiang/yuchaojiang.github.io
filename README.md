@@ -1,12 +1,3 @@
-<!-- {% include JB/setup %} -->
-<img style="float: right;" src="https://sites.google.com/a/cornell.edu/yuchaojiang/_/rsrc/1472858272722/home/yuchaojiang.jpg?height=200&width=149"> <br>
-
-Assistant Professor <br>
-[Department of Biostatistics](http://sph.unc.edu/bios/biostatistics/) <br>
-[Department of Genetics](http://www.med.unc.edu/genetics/) <br>
-University of North Carolina at Chapel Hill
-
-<br>
 
 ### Education
 
