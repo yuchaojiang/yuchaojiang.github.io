@@ -5,7 +5,7 @@ University of North Carolina at Chapel Hill
 
 <br>
 
-### Education
+## Education
 
 **PhD**, Genomics and Computational Biology, University of Pennsylvania, 2017; Advisor: [Professor Nancy R Zhang](https://statistics.wharton.upenn.edu/profile/nzh/)
 
@@ -15,7 +15,7 @@ University of North Carolina at Chapel Hill
 
 <br>
 
-### Publications
+## Publications
 
 **Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. *Nucleic Acids Research*, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
 
@@ -27,7 +27,7 @@ Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy numb
 
 <br>
 
-### Teaching
+## Teaching
 
 **Instructor**: STAT 101, Introductory Business Statistics, Wharton School, University of Pennsylvania, 2016 Summer ([syllabus](https://www.dropbox.com/s/r14xwwclpdzysns/Syllabus-STAT-101-2016-Summer.pdf?dl=0), [teaching evaluation](https://www.dropbox.com/s/tm4ltd5edoreebt/STAT101_teaching_evaluation.pdf?dl=0))
 
@@ -35,8 +35,8 @@ Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy numb
 
 <br>
 
-### Software
+## Software
 
-### Honors and Awards
+## Honors and Awards
 
-### Misc
+## Misc
