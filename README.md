@@ -36,3 +36,9 @@ Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy numb
 **SCALE**: *S*ingle *C*ell *AL*lelic *E*xpression ([GitHub](https://github.com/yuchaojiang/SCALE), [vignettes](https://github.com/yuchaojiang/SCALE/blob/master/demo/SCALE_vignettes.pdf))
 
 <br>
+
+### Contact
+
+Email: yuchaoj *at* email *dot* unc *dot* edu
+Address: 4115D MacGavran-Greenberg Hall, Chapel Hill, NC 27599-7420
+Phone: (919)843-4822
