@@ -40,5 +40,9 @@ Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy numb
 ### Contact
 
 Email: yuchaoj *at* email *dot* unc *dot* edu
+
 Address: 4115D MacGavran-Greenberg Hall, Chapel Hill, NC 27599-7420
+
 Phone: (919)843-4822
+
+<br>
