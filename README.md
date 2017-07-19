@@ -1,7 +1,7 @@
 
 ### Education
 
-**PhD**, Genomics and Computational Biology, University of Pennsylvania, 2017; Advisor: [Nancy Zhang](https://statistics.wharton.upenn.edu/profile/nzh/)
+**PhD**, Genomics and Computational Biology, University of Pennsylvania, 2017
 
 **MA**, Statistics, University of Pennsylvania 2014
 
