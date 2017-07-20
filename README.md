@@ -15,9 +15,9 @@
 
 **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. *Proceedings of the National Academy of Sciences*, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
 
-**Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. *Genome Biology*, 18.1 (2017): 74. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
+**Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. *Genome Biology*, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
-Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy number estimation by whole exome sequencing. *Annals of Applied Statistics*, to appear, 2017. ([link](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/25603?confirm=c52a45d8))
+Chen H, **Jiang Y**, Maxwell K, Nathanson K, Zhang NR. Allele-specific copy number estimation by whole exome sequencing. *Annals of Applied Statistics*, 11(2), 1169-1192, 2017. ([link](http://projecteuclid.org/euclid.aoas/1500537739))
 
 <br>
 
