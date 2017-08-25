@@ -19,7 +19,7 @@
 
 Chen H, **Jiang Y**, Maxwell KN, Nathanson KL, Zhang NR. Allele-specific copy number estimation by whole exome sequencing. *Annals of Applied Statistics*, 11(2), 1169-1192, 2017. ([link](http://projecteuclid.org/euclid.aoas/1500537739))
 
-Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, Kraya AA, Anastopoulos IN, Yu S, **Jiang Y**, Chen H, Zhang NR, Hackman N, D’Andrea K, Daber R, Morrissette JJD, Mitra N, Feldman M, Domchek SM, Nathanson KL. BRCA locus-specific loss of heterozygosity in germline BRCA1 and BRCA2 carriers. *Nature Communications*, 8(319) ,2017. ([link](https://www.nature.com/articles/s41467-017-00388-9))
+Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, Kraya AA, Anastopoulos IN, Yu S, **Jiang Y**, Chen H, Zhang NR, Hackman N, D’Andrea K, Daber R, Morrissette JJD, Mitra N, Feldman M, Domchek SM, Nathanson KL. BRCA locus-specific loss of heterozygosity in germline BRCA1 and BRCA2 carriers. *Nature Communications*, 8(319), 2017. ([link](https://www.nature.com/articles/s41467-017-00388-9))
 
 <br>
 
