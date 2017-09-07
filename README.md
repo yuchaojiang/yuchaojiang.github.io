@@ -1,3 +1,12 @@
+### Position
+
+**Postdoc**
+
+We have a postdoc position available as soon as possible in the Department of Biostatistics at the University of North Carolina, Chapel Hill. The research domain is in the field of statistical genetics and genomics with a focus on cancer genomics and single-cell genomics. Applicants are expected to have a Ph.D. degree in Biostatistics, Statistics, Computational Biology, or other quantitative field. Stipend is $60,000 plus fringe benefits. Due to Federally-mandated funding restrictions, the post-doctoral trainee MUST be a US citizen or permanent resident. Interested applicants should send their CV to Dr. Jiang (yuchaoj at email.unc.edu).
+
+**Programmer/Bioinformatician**
+
+We have a programmer/bioinformatician position available as soon as possible through the Department of Biostatistics, Department of Genetics, and the Lineberger Comprehensive Cancer Center at the University of North Carolina, Chapel Hill. Salary starts from $60,000 depending on experience. Qualified applicants should be proficient in R, Perl, shell script (C/C++ is a plus) and be able to run next-generation sequencing analysis software and pipelines in high-performance clusters. Previous experience with analyzing cancer genomics dataset is highly preferred.
 
 ### Education
 
