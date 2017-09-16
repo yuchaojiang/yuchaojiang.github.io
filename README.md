@@ -50,7 +50,7 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
   
   5112 [Genetic Medicine Building](https://www.google.com/maps/place/Department+of+Genetics/@35.9018309,-79.0549154,18.26z/data=!4m13!1m7!3m6!1s0x89acc2faae0c4f8b:0x69ea9dac5691824f!2sMarsico+Hall,+Chapel+Hill,+NC+27599!3b1!8m2!3d35.9025392!4d-79.0540141!3m4!1s0x0:0x2eb22192ccef1dbd!8m2!3d35.9011941!4d-79.0542741), CB #7264, Chapel Hill, NC 27599-7264 (Genetics)
 
-**Phone**: (919)843-4822
+**Phone**: (919)843-3656
 
 **Fax**: (919)966-3804
 
