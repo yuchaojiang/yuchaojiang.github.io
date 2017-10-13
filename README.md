@@ -66,4 +66,3 @@ We have a postdoc position available as soon as possible in the Department of Bi
 
 We have a programmer/bioinformatician position available as soon as possible through the Department of Biostatistics, Department of Genetics, and the Lineberger Comprehensive Cancer Center at the University of North Carolina, Chapel Hill. Qualified applicants should be proficient in R, Perl, shell script (C/C++ is a plus) and be able to run next-generation sequencing analysis software and pipelines in high-performance clusters. Previous experience with analyzing cancer genomics dataset is highly preferred. Salary starts from $70,000 depending on experience. Interested applicants should send their CV to Dr. Jiang (yuchaoj at email.unc.edu).
 
-<br>
