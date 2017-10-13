@@ -6,8 +6,6 @@
 
 **BA**, *magna cum laude*, Cornell University 2012
 
-<br>
-
 ***
 
 ### Publications
@@ -22,13 +20,13 @@ Chen H, **Jiang Y**, Maxwell KN, Nathanson KL, Zhang NR. Allele-specific copy nu
 
 Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, Kraya AA, Anastopoulos IN, Yu S, **Jiang Y**, Chen H, Zhang NR, Hackman N, D’Andrea K, Daber R, Morrissette JJD, Mitra N, Feldman M, Domchek SM, Nathanson KL. BRCA locus-specific loss of heterozygosity in germline BRCA1 and BRCA2 carriers. *Nature Communications*, 8 (1), 319, 2017. ([link](https://www.nature.com/articles/s41467-017-00388-9))
 
-<br>
+***
 
 ### Teaching
 
 **Instructor**: STAT 101, Introductory Business Statistics, Wharton School, University of Pennsylvania, 2016 Summer ([syllabus](https://www.dropbox.com/s/r14xwwclpdzysns/Syllabus-STAT-101-2016-Summer.pdf?dl=0))
 
-<br>
+***
 
 ### Software
 
@@ -40,7 +38,7 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 **CODEX2**: Full-Spectrum Copy Number Variation Detection by High-Throughput DNA Sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2))
 
-<br>
+***
 
 ### Contact
 
@@ -56,7 +54,7 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 **Fax**: (919)966-3804
 
-<br>
+***
 
 ### Position
 
@@ -68,4 +66,4 @@ We have a postdoc position available as soon as possible in the Department of Bi
 
 We have a programmer/bioinformatician position available as soon as possible through the Department of Biostatistics, Department of Genetics, and the Lineberger Comprehensive Cancer Center at the University of North Carolina, Chapel Hill. Qualified applicants should be proficient in R, Perl, shell script (C/C++ is a plus) and be able to run next-generation sequencing analysis software and pipelines in high-performance clusters. Previous experience with analyzing cancer genomics dataset is highly preferred. Salary starts from $70,000 depending on experience. Interested applicants should send their CV to Dr. Jiang (yuchaoj at email.unc.edu).
 
-<br>
+***
