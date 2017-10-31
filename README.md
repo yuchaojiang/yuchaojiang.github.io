@@ -54,6 +54,3 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 **Fax**: (919)966-3804
 
-***
-
-
