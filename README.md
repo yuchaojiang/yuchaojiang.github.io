@@ -27,6 +27,7 @@ Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubb
 ### Advising
 
 Rujin Wang (Biostatistics PhD student, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/))
+
 Meichen Dong (Biostatistics PhD student, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/))
 
 ***
