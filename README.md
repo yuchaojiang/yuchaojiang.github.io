@@ -27,9 +27,9 @@ Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubb
 
 ***Preprints***
 
-**Jiang Y**, Chen H, Zhou Z, Zhang NR. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. *Submitted*. ([bioRxiv]https://www.biorxiv.org/content/early/2017/10/16/195230)
+**Jiang Y**, Chen H, Zhou Z, Zhang NR. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. *Submitted*. ([bioRxiv](https://www.biorxiv.org/content/early/2017/10/16/195230))
 
-**Jiang Y**, Anastopoulos IN, Nathanson KL, Zhang NR. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Submitted*. ([bioRixv]https://www.biorxiv.org/content/early/2017/11/13/211698)
+**Jiang Y**, Anastopoulos IN, Nathanson KL, Zhang NR. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Submitted*. ([bioRixv](https://www.biorxiv.org/content/early/2017/11/13/211698))
 
 ***
 
