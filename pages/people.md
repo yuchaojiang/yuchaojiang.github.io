@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Recent talks
-description: Li Chen's talks
+title: Lab members
+description: Jiang Lab members
 ---
 
 ###  Invited talk
@@ -15,6 +15,4 @@ DIVAN: accurate identification of non-coding disease-specific risk variants usin
 
 ### Poster
 
-DIVAN: accurate identification of non-coding disease-specific risk variants using multi-omics profiles (Top 10% poster with Reviewers' Choice ribbon) <br/>
-[The American Society of Human Genetics](https://www.ashg.org/2016meeting/)(_Oct 20_,2016)
-
+DIVAN: accurate identification of non-coding disease-specific risk 
