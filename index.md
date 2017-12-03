@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title:
 description: Webpage for the Jiang Lab at UNC Chapel Hill.
 
 ---
