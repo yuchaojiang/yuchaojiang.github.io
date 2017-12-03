@@ -1,20 +1,12 @@
 ---
 layout: page
 title: About
-description: I am a tenure-tracked Assistant Professor in Harrison School of Pharmacy at Auburn University. I am a member of 
-the Omics and Informatics Cluster hire in Auburn University.
+description: Webpage for the Jiang Lab at UNC Chapel Hill.
+
 ---
 
-<div class="navbar">
-  <div class="navbar-inner">
-      <ul class="nav">
-          <li><a href="https://scholar.google.com/citations?user=Nk-yRrcAAAAJ&hl=en">Google Scholar</a></li>
-        <li><a href="http://www.auburn.edu/academic/pharmacy/directory/li-chen.html">Official Website</a></li>
-      </ul>
-  </div>
-</div>
 
-###  Li's Biography
+###  Background
 
 I am a Tenure-Track Assistant Professor in Harrison School of Pharmacy at Auburn University. I am a member of 
 The Omics and Informatics Cluster Hire in Auburn University. I received a BS from China majoring in Bioinformatics in 2009; a
