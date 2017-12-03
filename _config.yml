@@ -14,7 +14,7 @@ author :
   email : yuchaoj@email.unc.edu
   github : yuchaojiang
   twitter : yuchaojiang
-  #feedburner : nil
+  feedburner : nil
 
 # NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
 production_url : https://yuchaojiang.github.io/
