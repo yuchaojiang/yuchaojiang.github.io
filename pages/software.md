@@ -5,8 +5,6 @@ description: Yuchao Jiang's software
 ---
 
 
-Here is a list of software I developed.
-
 
 **CODEX**: *CO*py number *D*etection by *EX*ome sequencing ([BioC](http://www.bioconductor.org/packages/release/bioc/html/CODEX.html), [vignettes](http://www.bioconductor.org/packages/release/bioc/vignettes/CODEX/inst/doc/CODEX_vignettes.pdf))
 
