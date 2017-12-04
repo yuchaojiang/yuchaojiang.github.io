@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yuchao Jiang
-description: Webpage for the Jiang Lab at UNC Chapel Hill.
+description: I am an Assistant Professor in the Department of Biostatistics and the Department of Genetics at the University of North Carolina, Chapel Hill.
 
 ---
 
