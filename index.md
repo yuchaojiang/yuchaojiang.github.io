@@ -5,6 +5,15 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 ---
 
+Assistant Professor, [Department of Biostatistics, Gillings School of Global Public Health](http://sph.unc.edu/bios/biostatistics/)
+
+Assistant Professor, [Department of Genetics, School of Medicine](http://www.med.unc.edu/genetics/)
+
+Member, [Lineberger Comprehensive Cancer Center](https://unclineberger.org/)
+
+University of North Carolina at Chapel Hill
+
+
 ###  Background
 
 I obtained my Ph.D. degree in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with Dr. Nancy R. Zhang (advisor) and Dr. Mingyao Li. I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as an Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in July 2017.
