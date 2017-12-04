@@ -16,7 +16,7 @@ description: Jiang Lab members
 
 Yuchao Jiang, Principal Investigator
 
-<br><br>
+<br>
 
 <div class="container">
     <div class="row-fluid">
@@ -30,7 +30,7 @@ Yuchao Jiang, Principal Investigator
 
 Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
 
-<br><br>
+<br>
 
 <div class="container">
     <div class="row-fluid">
@@ -44,7 +44,7 @@ Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.u
 
 Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
 
-<br><br>
+<br>
 
 <div class="container">
     <div class="row-fluid">
