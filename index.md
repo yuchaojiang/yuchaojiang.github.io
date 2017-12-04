@@ -5,13 +5,19 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 ---
 
-Assistant Professor, [Department of Biostatistics, Gillings School of Global Public Health](http://sph.unc.edu/bios/biostatistics/)
-
-Assistant Professor, [Department of Genetics, School of Medicine](http://www.med.unc.edu/genetics/)
-
-Member, [Lineberger Comprehensive Cancer Center](https://unclineberger.org/)
-
-University of North Carolina at Chapel Hill
+<div class="container">
+    <div class="row-fluid">
+        <div class="span5">
+            Assistant Professor, <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
+            Assistant Professor, <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
+            Member, <a href="https://unclineberger.org/">Lineberger Comprehensive Cancer Center</a><br/>
+            University of North Carolina, Chapel Hill <br/><br/>
+            <div id="hide_email">
+            Email: <code>yuchaoj@email.unc.edu</code><br/>
+            </div>
+        </div>
+    </div>
+</div>
 
 
 ###  Background
