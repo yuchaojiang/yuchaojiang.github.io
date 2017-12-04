@@ -14,8 +14,8 @@ description: Jiang Lab members
     </div>
 </div>
 
-Yuchao Jiang, Principal Investigator
 <div class="cv">
+	Yuchao Jiang, Principal Investigator <br/>
 	<a href="../assets/pdfs/CV_Yuchao_Jiang.pdf" title="Download CV as PDF">Download CV</a>
 </div>
 
