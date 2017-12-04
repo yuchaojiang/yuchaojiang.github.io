@@ -16,6 +16,10 @@ description: Jiang Lab members
 
 Yuchao Jiang, Principal Investigator
 
+<div class="cv">
+	<a href="../assets/pdfs/CV_Yuchao_Jiang.pdf" class="btn btn-default pull-right" title="Download CV as PDF">Download CV</a>
+</div>
+
 <br>
 
 <div class="container">
