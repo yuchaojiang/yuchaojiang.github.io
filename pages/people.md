@@ -19,7 +19,7 @@ description: Jiang Lab members
 	<a href="../assets/pdfs/CV_Yuchao_Jiang.pdf" title="Download CV as PDF">Download CV</a>
 </div>
 
-<br>
+<br/>
 
 <div class="container">
     <div class="row-fluid">
