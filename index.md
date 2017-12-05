@@ -14,6 +14,14 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
     </div>
 </div>
 
+<div class="container">
+    <div class="row-fluid">
+            <a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Department of Biostatistics bio</a><br/>
+            <a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Department of Genetics bio</a><br/>
+            <a href="http://unclineberger.org/people/profiles/yuchao-jiang">Lineberger Cancer Center bio</a><br/><br/>
+    </div>
+</div>
+
 
 ###  Background
 
