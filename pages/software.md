@@ -14,7 +14,4 @@ description: Yuchao Jiang's software
 
 **CODEX2**: Full-Spectrum Copy Number Variation Detection by High-Throughput DNA Sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2))
 
-
-
-
-
+**MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON))
