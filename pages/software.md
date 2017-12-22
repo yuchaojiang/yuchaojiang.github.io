@@ -12,6 +12,6 @@ description: Yuchao Jiang's software
 
 **SCALE**: *S*ingle *C*ell *AL*lelic *E*xpression ([GitHub](https://github.com/yuchaojiang/SCALE), [vignettes](https://github.com/yuchaojiang/SCALE/blob/master/demo/SCALE_vignettes.pdf))
 
-**CODEX2**: Full-Spectrum Copy Number Variation Detection by High-Throughput DNA Sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2))
+**CODEX2**: Full-Spectrum Copy Number Variation Detection by High-Throughput DNA Sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [notebook](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
 
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [notebook](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
