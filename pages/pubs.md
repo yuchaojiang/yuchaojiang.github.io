@@ -34,4 +34,4 @@ Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubb
 
 **Jiang Y***, Anastopoulos IN, Nathanson KL, Zhang NR. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Submitted*. ([bioRixv](https://www.biorxiv.org/content/early/2017/11/13/211698))
 
-* As corresponding author
+\*As corresponding author
