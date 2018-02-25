@@ -9,7 +9,7 @@ description: Jiang Lab members
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/lab_Feb2018.jpg">
-            <img src="../assets/pics/Yuchao.jpg" height="400" width="200" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
+            <img src="../assets/pics/lab_Feb2018.jpg" height="400" width="300" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
         </a>
         </div>
     </div>
