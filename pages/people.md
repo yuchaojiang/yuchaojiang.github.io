@@ -4,6 +4,25 @@ title: Lab members
 description: Jiang Lab members
 ---
 
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/lab_Feb2018.jpg">
+            <img src="../assets/pics/Yuchao.jpg" height="400" width="200" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+<div class="cv">
+	Jiang Lab, Feb 2018 <br/>
+</div>
+
+<br/>
+
+
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
