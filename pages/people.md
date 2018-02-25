@@ -68,6 +68,7 @@ Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo 
 <br/>
 
 ## Lab photos
+<br/>
 
 <div class="container">
     <div class="row-fluid">
@@ -82,4 +83,5 @@ Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo 
 <div class="cv">
 	Jiang Lab, Feb 2018 <br/>
 </div>
+
 <br/>
