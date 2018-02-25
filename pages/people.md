@@ -5,21 +5,6 @@ description: Jiang Lab members
 ---
 
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/lab_Feb2018.jpg">
-            <img src="../assets/pics/lab_Feb2018.jpg" height="400" width="300" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-<div class="cv">
-	Jiang Lab, Feb 2018 <br/>
-</div>
-
-<br/>
 
 
 
@@ -79,3 +64,23 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 </div>
 
 Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/)
+
+
+
+# Lab photos
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/lab_Feb2018.jpg">
+            <img src="../assets/pics/lab_Feb2018.jpg" height="400" width="300" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+<div class="cv">
+	Jiang Lab, Feb 2018 <br/>
+</div>
+
+<br/>
