@@ -65,9 +65,9 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 
 Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/)
 
+<br/>
 
-
-# Lab photos
+## Lab photos
 
 <div class="container">
     <div class="row-fluid">
