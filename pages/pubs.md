@@ -28,9 +28,9 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubbenhorst B, Amaravadi R, Bennett J, Beqiri M, Elder D, Flaherty KT, Frederick DT, Gangadhar TC, Guarino M, Hoon D, Karakousis G, Liu Q, Mitra N, Petrelli NJ, Schuchter L, Shannan B, Shields CL, Wargo J, Wenz B, Wilson MA, Xiao M, Xu W, Xu X, Yin X, Zhang NR, Davies MA, Herlyn M, Nathanson KL. Genetic and Genomic Characterization of 462 Melanoma Patient-Derived Xenografts, Tumor Biopsies, and Cell Lines. ***Cell Reports***, 21 (7), 1936-1952, 2017. ([link](http://www.cell.com/cell-reports/fulltext/S2211-1247(17)31499-7))
 
-**Urrutia E**, Chen H, Zhou Z, Zhang NR, **Jiang Y**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
+**Urrutia E***, Chen H, Zhou Z, Zhang NR, **Jiang Y#**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
 #### Preprints
 
-**Jiang Y**, Anastopoulos IN, Nathanson KL, Zhang NR. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Submitted*. ([bioRixv](https://www.biorxiv.org/content/early/2017/11/13/211698))
+**Jiang Y#**, Wang R*, Urrutia E*, Anastopoulos IN, Nathanson KL, Zhang NR. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Submitted*. ([bioRixv](https://www.biorxiv.org/content/early/2017/11/13/211698))
 
