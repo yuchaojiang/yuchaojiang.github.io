@@ -24,6 +24,15 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
     </div>
 </div>
 
+### News
+Jan 2018: The lab received the UNC Lineberger Developmental Award. ([News](https://unclineberger.org/news/lineberger-awards?utm_source=lineup&utm_medium=email&utm_campaign=5))
+<br/>
+Dec 2017: Biostatistics Ph.D. candidates Rujin Wang and Meichen Dong joined the lab. Welcome!
+<br/>
+Nov 2017: Gene Urrutia joined the lab as a postdoc fellow. Welcome Gene!
+<br/>
+Oct 2017: Yuchao gave a talk at the Bioinformatics and Computational Biology (BCB) Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
+
 
 ###  Background
 
