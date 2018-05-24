@@ -31,7 +31,7 @@ Dec 2017: Biostatistics Ph.D. candidates Rujin Wang and Meichen Dong joined the 
 <br/>
 Nov 2017: Gene Urrutia joined the lab as a postdoc fellow. Welcome Gene!
 <br/>
-Oct 2017: Yuchao gave a talk at the Bioinformatics and Computational Biology (BCB) Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
+Oct 2017: Yuchao gave a talk at the Bioinformatics and Computational Biology Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
 
 
 ###  Background
