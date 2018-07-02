@@ -25,6 +25,9 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
+June 2018: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
+Feb 2018: MARATHON is online at *Bioinformatics*. ([Html](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
+<br/>
 Jan 2018: The lab received the UNC Lineberger Developmental Award. ([News](https://unclineberger.org/news/lineberger-awards?utm_source=lineup&utm_medium=email&utm_campaign=5))
 <br/>
 Dec 2017: Biostatistics Ph.D. candidates Rujin Wang and Meichen Dong joined the lab. Welcome!
