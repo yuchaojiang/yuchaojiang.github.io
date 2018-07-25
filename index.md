@@ -25,19 +25,19 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
-Jul 2018: The lab received funding from the Jayne Koskinas Ted Giovanis Foundation for Health and Policy for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
-<br/>
-Jun 2018: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
-<br/>
-Feb 2018: MARATHON is online at *Bioinformatics*. ([Html](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
-<br/>
-Jan 2018: The lab received the UNC Lineberger Developmental Award. ([News](https://unclineberger.org/news/lineberger-awards?utm_source=lineup&utm_medium=email&utm_campaign=5))
-<br/>
-Dec 2017: Biostatistics Ph.D. candidates Rujin Wang and Meichen Dong joined the lab. Welcome!
-<br/>
-Nov 2017: Gene Urrutia joined the lab as a postdoc fellow. Welcome Gene!
-<br/>
-Oct 2017: Yuchao gave a talk at the Bioinformatics and Computational Biology Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
+* Jul 2018: The lab received funding from the Jayne Koskinas Ted Giovanis Foundation for Health and Policy for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
+
+* Jun 2018: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
+
+* Feb 2018: MARATHON is online at *Bioinformatics*. ([Html](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
+
+* Jan 2018: The lab received the UNC Lineberger Developmental Award. ([News](https://unclineberger.org/news/lineberger-awards?utm_source=lineup&utm_medium=email&utm_campaign=5))
+
+* Dec 2017: Biostatistics Ph.D. candidates Rujin Wang and Meichen Dong joined the lab. Welcome!
+
+* Nov 2017: Gene Urrutia joined the lab as a postdoc fellow. Welcome Gene!
+
+* Oct 2017: Yuchao gave a talk at the Bioinformatics and Computational Biology Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
 
 
 ###  Background
