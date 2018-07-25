@@ -25,6 +25,8 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
+Jul 2018: The lab received funding from the Jayne Koskinas Ted Giovanis Foundation for Health and Policy for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
+<br/>
 Jun 2018: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
 <br/>
 Feb 2018: MARATHON is online at *Bioinformatics*. ([Html](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
