@@ -53,6 +53,9 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 
 <br/>
 
+## Alumni
+------
+
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -63,9 +66,11 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
     </div>
 </div>
 
-Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/)
+Gene Urrutia, Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/). Currently at (Hill-Rom)[https://www.hill-rom.com/usa/].
 
 <br/>
+
+
 
 ## Lab photos
 ------
