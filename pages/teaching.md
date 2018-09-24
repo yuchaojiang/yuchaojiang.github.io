@@ -9,5 +9,3 @@ description: Courses taught by Yuchao Jiang.
 	<a href="../assets/pdfs/STAT101_teaching_evaluation.pdf" title="Evaluation STAT101">Evaluation</a>]
 </div>
 
-<br/>
-
