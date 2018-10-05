@@ -56,7 +56,7 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Rujin.jpg">
+        <a href="../assets/pics/tianyou.jpg">
             <img src="../assets/pics/tianyou.jpg" height="200" width="200" title="Tianyou Luo" alt="Tianyou Luo"/>
         </a>
         </div>
