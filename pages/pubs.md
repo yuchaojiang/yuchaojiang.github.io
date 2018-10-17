@@ -28,8 +28,8 @@ Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubb
 
 Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y**#. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
-**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Revision under review*. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
+**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Revision under review*, 2018. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
 
-Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision under review*.
+Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision under review*, 2018.
 
-Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Under review*.
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Under review*, 2018.
