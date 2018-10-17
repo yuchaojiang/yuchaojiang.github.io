@@ -14,9 +14,6 @@ description: Yuchao Jiang's publications
 
 \# denotes corresponding author, * denotes advisee.
 
-#### Journal articles
-
-
 **Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. ***Nucleic Acids Research***, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
 
 **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
@@ -31,7 +28,8 @@ Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubb
 
 Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y**#. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
-#### Preprints
+**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Revision under review*. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
 
-**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Revision submitted*. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
+Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision under review*.
 
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Under review*.
