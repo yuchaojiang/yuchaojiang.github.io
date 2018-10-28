@@ -53,19 +53,6 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Tianyou.jpg">
-            <img src="../assets/pics/Tianyou.jpg" height="200" width="200" title="Tianyou Luo" alt="Tianyou Luo"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Tianyou Luo, Biostatistics Graduate Research Assistant.
-
-<br/>
 
 ## Alumni
 ------
@@ -86,7 +73,19 @@ Currently at [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Tianyou.jpg">
+            <img src="../assets/pics/Tianyou.jpg" height="200" width="200" title="Tianyou Luo" alt="Tianyou Luo"/>
+        </a>
+        </div>
+    </div>
+</div>
 
+Tianyou Luo (2018), Biostatistics Graduate Research Assistant. Currently working with [Dr. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/).
+
+<br/>
 
 ## Lab photos
 ------
