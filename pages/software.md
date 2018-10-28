@@ -12,6 +12,8 @@ description: Yuchao Jiang's software
 
 **SCALE**: *S*ingle *C*ell *AL*lelic *E*xpression ([GitHub](https://github.com/yuchaojiang/SCALE), [vignettes](https://github.com/yuchaojiang/SCALE/blob/master/demo/SCALE_vignettes.pdf))
 
-**CODEX2**: Full-Spectrum Copy Number Variation Detection by High-Throughput DNA Sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [notebook](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
+**CODEX2**: Full-spectrum copy number variation detection by high-throughput DNA sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [notebook](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
 
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [notebook](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
+
+**Destin**: Toolkit for single-cell analysis of chromatin accessibility ([GitHub](https://github.com/urrutiag/destin), [notebook1](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinBuenrostroMouse.html), [notebook2](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinPreisslP56.html))
