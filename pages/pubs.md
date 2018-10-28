@@ -14,9 +14,15 @@ description: Yuchao Jiang's publications
 
 \# denotes (co-)corresponding author, * denotes advisee.
 
-**Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. ***Nucleic Acids Research***, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
+Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018.
 
-**Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Under review*, 2018.
+
+Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision under review*, 2018.
+
+**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, accepted, 2018. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
+
+Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y**#. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
 **Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
@@ -26,12 +32,6 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubbenhorst B, Amaravadi R, Bennett J, Beqiri M, Elder D, Flaherty KT, Frederick DT, Gangadhar TC, Guarino M, Hoon D, Karakousis G, Liu Q, Mitra N, Petrelli NJ, Schuchter L, Shannan B, Shields CL, Wargo J, Wenz B, Wilson MA, Xiao M, Xu W, Xu X, Yin X, Zhang NR, Davies MA, Herlyn M, Nathanson KL. Genetic and Genomic Characterization of 462 Melanoma Patient-Derived Xenografts, Tumor Biopsies, and Cell Lines. ***Cell Reports***, 21 (7), 1936-1952, 2017. ([link](http://www.cell.com/cell-reports/fulltext/S2211-1247(17)31499-7))
 
-Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y**#. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
+**Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
 
-**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. *Revision under review*, 2018. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
-
-Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision under review*, 2018.
-
-Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Under review*, 2018.
-
-Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018.
+**Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. ***Nucleic Acids Research***, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
