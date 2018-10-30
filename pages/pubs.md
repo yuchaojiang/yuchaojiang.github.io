@@ -22,7 +22,7 @@ Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profi
 
 **Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, accepted, 2018. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
 
-Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y#**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, bty057, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
+Urrutia E\*, Chen H, Zhou Z, Zhang NR#, **Jiang Y#**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
 **Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
