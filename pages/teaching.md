@@ -10,6 +10,6 @@ description: Courses taught by Yuchao Jiang.
 </div>
 <br/>
 <div class="cv">
-  <b>BIOS785</b>, <i>Statistical Methods for Gene Expression and Regulation</i>, Gillings School of Global Public Health, University of North Carolina, Chapel Hill (Spring 2019) <br/>
+  <b>BIOS785/BCB785</b>, <i>Statistical Methods for Gene Expression and Regulation</i>, Gillings School of Global Public Health, University of North Carolina, Chapel Hill (Spring 2019) <br/>
 [<a href="../assets/pdfs/BIOS785_Spring2019_Yuchao_Jiang.pdf" title="Syllabus BIOS785">Syllabus</a>]
 </div>
