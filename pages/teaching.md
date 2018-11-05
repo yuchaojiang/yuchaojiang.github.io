@@ -12,8 +12,8 @@ Department of Statistics, The Wharton School, University of Pennsylvania <br/>
 <br/>
 <div class="cv">
   <b>BIOS785/BCB785</b>, <i>Statistical Methods for Gene Expression and Regulation</i>, Spring 2019 <br/>
-Department of Biostatistics, Gillings School of Global Public Health, University of North Carolina, Chapel Hill <br/>
-Curriculum in Bioinformatics and Computational Biology, School of Medicine, University of North Carolina, Chapel Hill
+Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
+Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC Chapel Hill
 <br/>
 [<a href="../assets/pdfs/BIOS785_Spring2019_Yuchao_Jiang.pdf" title="Syllabus BIOS785">Syllabus</a>]
 </div>
