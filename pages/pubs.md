@@ -14,7 +14,7 @@ description: Yuchao Jiang's publications
 
 Key: \# indicates (co-)corresponding author; \* indicates advisee.
 
-Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018.
+Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
 
 Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. *Submitted*, 2018.
 
