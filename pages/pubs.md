@@ -12,9 +12,9 @@ description: Yuchao Jiang's publications
   </div>
 </div>
 
-Key: \# indicates (co-)corresponding author; \* indicates advisee.
+**Key**: ^ indicates (co-)corresponding author; \* indicates advisee.
 
-Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
+Urrutia E\*, Chen L, Zhou H, **Jiang Y^**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
 
 Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. *Revision submitted*, 2018.
 
