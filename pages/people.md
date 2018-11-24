@@ -67,7 +67,8 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
     </div>
 </div>
 
-Gene Urrutia (2017-2018), Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/). Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
+Gene Urrutia (2017-2018), Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/). 
+Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
 
@@ -81,6 +82,7 @@ Gene Urrutia (2017-2018), Biostatistics Postdoctoral Research Fellow, joint with
     </div>
 </div>
 
-Tianyou Luo (2018), Biostatistics Graduate Research Assistant. Next position: graduate research assistant with [Dr. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/).
+Tianyou Luo (2018), Biostatistics Graduate Research Assistant.
+Next position: graduate research assistant with [Dr. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/).
 
 <br/>
