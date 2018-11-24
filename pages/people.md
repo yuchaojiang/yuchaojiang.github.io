@@ -84,21 +84,3 @@ Gene Urrutia (2017-2018), Biostatistics Postdoctoral Research Fellow, joint with
 Tianyou Luo (2018), Biostatistics Graduate Research Assistant. Next position: graduate research assistant with [Dr. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/).
 
 <br/>
-
-## Lab photos
-------
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/lab_Feb2018.jpg">
-            <img src="../assets/pics/lab_Feb2018.jpg" height="400" width="300" title="Jiang Lab Feb 2018" alt="Jiang Lab"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-<div class="cv">
-	Jiang Lab and Family, Feb 2018 <br/>
-</div>
-
