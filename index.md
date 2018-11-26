@@ -27,13 +27,13 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 ### News
 **Nov 2018**: CODEX2 is now published in Genome Biology. ([Html](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
 
-**Oct 2018**: Yuchao gave a talk at [AISC 2018](https://www.uncg.edu/mat/aisc/2018/index.html).
+**Oct 2018**: Yuchao gave a talk at AISC 2018. ([Link](https://www.uncg.edu/mat/aisc/2018/index.html))
 
 **Sept 2018**: Tianyou Luo (first year Biostatistics PhD student) joined the lab as a graduate research assistant. Welcome Tianyou!
 
 **Aug 2018**: Yuchao gave a talk at JSM 2018. ([Link](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215048))
 
-**Jul 2018**: The lab received funding from the Jayne Koskinas Ted Giovanis Foundation for Health and Policy for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
+**Jul 2018**: The lab received funding from the [Jayne Koskinas Ted Giovanis Foundation for Health and Policy](http://jktgfoundation.org/) for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
 
 **Jun 2018**: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
 
