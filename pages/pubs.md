@@ -18,7 +18,7 @@ Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analy
 
 Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2018. 
 
-**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([bioRixv](https://www.biorxiv.org/content/early/2018/04/01/211698))
+**Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
 Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y#**, Sancar A#. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, jbc-RA118, 2018. ([link](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
 
