@@ -27,7 +27,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 ### News
 **Nov 2018**: CODEX2 is now published in Genome Biology. ([Html](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
 
-**Nov 2018**: Paper on excision repair of ribosomal DNA joint with [Dr. Aziz Sancar](https://www.med.unc.edu/biochem/directory/asancar/) is published in Journal of Biological Chemistry. ([Pdf](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
+**Nov 2018**: Paper on excision repair of ribosomal DNA in collaboration with [Dr. Aziz Sancar](https://www.med.unc.edu/biochem/directory/asancar/) is published in Journal of Biological Chemistry. ([Pdf](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
 
 **Oct 2018**: Yuchao gave a talk at [AISC 2018](https://www.uncg.edu/mat/aisc/2018/index.html).
 
