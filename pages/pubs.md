@@ -16,7 +16,7 @@ description: Yuchao Jiang's publications
 
 Urrutia E\*, Chen L, Zhou H, **Jiang Y#**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
 
-Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Transcriptomic and epigenomic profiles explain differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2018. 
+Yimit A, Adebali O, Sancar A#, **Jiang Y#**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2018. 
 
 **Jiang Y#**, Wang R\*, Urrutia E\*, Anastopoulos IN, Nathanson KL, Zhang NR#. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
