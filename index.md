@@ -25,6 +25,8 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
+**Nov 2018**: Yuchao gave a talk at the Genetics Colloquium at UNC-CH.
+
 **Nov 2018**: CODEX2 is now published in Genome Biology. ([Html](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
 
 **Oct 2018**: Yuchao gave a talk at AISC 2018. ([Link](https://www.uncg.edu/mat/aisc/2018/index.html))
@@ -45,7 +47,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 **Nov 2017**: Gene Urrutia joined the lab as a postdoc fellow. Welcome Gene!
 
-**Oct 2017**: Yuchao gave a talk at the Bioinformatics and Computational Biology Colloquium at UNC-CH. ([Link](https://www.med.unc.edu/genetics/events/bcb-colloquium/monday-bcb-colloquium-yuchao-jiang))
+**Oct 2017**: Yuchao gave a talk at the Bioinformatics and Computational Biology Colloquium at UNC-CH.
 
 
 ###  Background
