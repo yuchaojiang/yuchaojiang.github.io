@@ -12,7 +12,7 @@ description: Yuchao Jiang's publications
   </div>
 </div>
 
-**Key**: <sup>&sect;</sup> indicates (co-)corresponding author; <sup>&dagger;</sup> indicates advisee.
+**Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
 
