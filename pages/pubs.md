@@ -12,17 +12,17 @@ description: Yuchao Jiang's publications
   </div>
 </div>
 
-**Key**: <sup>&dagger;</sup> indicates (co-)corresponding author; <sup>&sect;</sup> indicates advisee.
+**Key**: <sup>&sect;</sup> indicates (co-)corresponding author; <sup>&dagger;</sup> indicates advisee.
 
-Urrutia E<sup>&sect;</sup>, Chen L, Zhou H, **Jiang Y<sup>&dagger;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
+Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. *Submitted*, 2018. ([bioRixv](http://biorxiv.org/cgi/content/short/461905v1))
 
-Yimit A, Adebali O, Sancar A<sup>&dagger;</sup>, **Jiang Y<sup>&dagger;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2018. 
+Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2018. 
 
-**Jiang Y<sup>&dagger;</sup>**, Wang R<sup>&sect;</sup>, Urrutia E<sup>&sect;</sup>, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&dagger;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
+**Jiang Y<sup>&sect;</sup>**, Wang R<sup>&dagger;</sup>, Urrutia E<sup>&dagger;</sup>, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
-Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&dagger;</sup>**, Sancar A<sup>&dagger;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, jbc-RA118, 2018. ([link](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, jbc-RA118, 2018. ([link](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
 
-Urrutia E<sup>&sect;</sup>, Chen H, Zhou Z, Zhang NR<sup>&dagger;</sup>, **Jiang Y<sup>&dagger;</sup>**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
+Urrutia E<sup>&dagger;</sup>, Chen H, Zhou Z, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
 **Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
