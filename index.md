@@ -25,6 +25,8 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
+**Dec 2018**: Yuchao received the IBM Junior Faculty Developmental Award.
+
 **Nov 2018**: Yuchao gave a talk at the Genetics Colloquium at UNC-CH.
 
 **Nov 2018**: CODEX2 is now published in Genome Biology. ([Html](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
