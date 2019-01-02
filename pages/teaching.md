@@ -11,7 +11,7 @@ Department of Statistics, The Wharton School, University of Pennsylvania <br/>
 </div>
 <br/>
 <div class="cv">
-  <b>BIOS785/BCB785</b>, <i>Statistical Methods for Gene Expression Analysis</i>, Spring 2019 <br/>
+  <b>BIOS/BCB785</b>, <i>Statistical Methods for Gene Expression Analysis</i>, Spring 2019 <br/>
 Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
 Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC Chapel Hill
 <br/>
