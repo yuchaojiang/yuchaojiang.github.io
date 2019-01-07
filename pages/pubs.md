@@ -18,7 +18,7 @@ Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Dest
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, accepted, 2019. 
 
-Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](http://www.jbc.org/content/early/2018/11/09/jbc.RA118.006121.full.pdf))
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](http://www.jbc.org/content/294/1/210.short))
 
 **Jiang Y<sup>&sect;</sup>**, Wang R<sup>&dagger;</sup>, Urrutia E<sup>&dagger;</sup>, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
