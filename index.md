@@ -25,6 +25,8 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
+**Jan 2019**: The lab received funding from the Computational Medicine Program Pilot Award, in collaboration with [Dr. Qing Zhang's lab](https://www.med.unc.edu/pathology/faculty-2/dplm-faculty-profiles2014dr-zhang/) at UNC Lineberger Cancer Center.
+
 **Jan 2019**: Our joint work with [Dr. Aziz Sancar](http://sancarlab.unc.edu/) on damage and repair of ribosomal DNA is published in Journal of Biological Chemistry. ([Html](http://www.jbc.org/content/294/1/210.short), [Pdf](http://www.jbc.org/content/294/1/210.full.pdf))
 
 **Dec 2018**: Yuchao received the IBM Junior Faculty Developmental Award. ([News](https://www.med.unc.edu/genetics/yuchao-jiang-phd-receives-junior-faculty-development-award/))
