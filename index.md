@@ -35,7 +35,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 **Nov 2018**: Yuchao gave a talk at the Genetics Colloquium at UNC-CH.
 
-**Nov 2018**: CODEX2 is now published in Genome Biology. ([Html](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
+**Nov 2018**: CODEX2 is now published in Genome Biology. ([HTML](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y), [GitHub](https://github.com/yuchaojiang/CODEX2)) 
 
 **Oct 2018**: Yuchao gave a talk at AISC 2018. ([Link](https://www.uncg.edu/mat/aisc/2018/index.html))
 
@@ -47,7 +47,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 **Jun 2018**: Yuchao was selected to attend the BD2K Innovation Lab on Single Cell Dynamics at Bend, OR. ([Link](https://bigdatau.ini.usc.edu/innovationlab2018))
 
-**Feb 2018**: MARATHON is online at *Bioinformatics*. ([Html](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
+**Feb 2018**: MARATHON is online at *Bioinformatics*. ([HTML](https://academic.oup.com/bioinformatics/article/34/12/2126/4838234), [GitHub](https://github.com/yuchaojiang/MARATHON/)) 
 
 **Jan 2018**: The lab received the UNC Lineberger Developmental Award. ([News](https://unclineberger.org/news/lineberger-awards?utm_source=lineup&utm_medium=email&utm_campaign=5))
 
