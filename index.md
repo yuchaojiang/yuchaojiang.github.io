@@ -27,7 +27,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 ### News
 **Jan 2019**: Our joint work with [Dr. Aziz Sancar](http://sancarlab.unc.edu/) on cross-tissue DNA damage and repair is published in Nature Communications. ([HTML](https://www.nature.com/articles/s41467-019-08290-2), [pdf](https://www.nature.com/articles/s41467-019-08290-2.pdf))
 
-**Jan 2019**: The lab received funding from the UNC Computational Medicine Program Pilot Award, in collaboration with [Dr. Qing Zhang](https://www.med.unc.edu/pathology/faculty-2/dplm-faculty-profiles2014dr-zhang/) at UNC Lineberger Cancer Center.
+**Jan 2019**: The lab received funding from the UNC Computational Medicine Program Pilot Award, in collaboration with [Dr. Qing Zhang](https://www.med.unc.edu/pathology/faculty-2/dplm-faculty-profiles2014dr-zhang/) at UNC Lineberger Cancer Center. ([News]http://news.unchealthcare.org/som-vital-signs/2019/jan-24/honors-and-awards?utm_source=vs-email&utm_medium=email&utm_campaign=4)
 
 **Jan 2019**: Our joint work with [Dr. Aziz Sancar](http://sancarlab.unc.edu/) on damage and repair of ribosomal DNA is published in Journal of Biological Chemistry. ([HTML](http://www.jbc.org/content/294/1/210.short), [pdf](http://www.jbc.org/content/294/1/210.full.pdf))
 
