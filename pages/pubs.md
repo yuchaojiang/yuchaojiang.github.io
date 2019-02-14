@@ -14,7 +14,9 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. **bioRixv**, 2019. ([link](http://biorxiv.org/cgi/content/short/461905v2))
+Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***bioRixv***, 2019. ([link](http://biorxiv.org/cgi/content/short/461905v2))
+
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. Computational Methods for Single-Cell Data Analysis. ***Methods in Molecular Biology***, vol 1935. Humana Press, New York, NY, 2019.
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
