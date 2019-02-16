@@ -71,18 +71,3 @@ Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Tianyou.jpg">
-            <img src="../assets/pics/Tianyou.jpg" height="200" width="200" title="Tianyou Luo" alt="Tianyou Luo"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Tianyou Luo (2018), Biostatistics graduate research assistant. <br/>
-Next position: graduate research assistant with [Dr. Hongtu Zhu](https://sph.unc.edu/adv_profile/hongtu-zhu-phd/).
-
-<br/>
