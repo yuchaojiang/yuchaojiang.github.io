@@ -45,8 +45,6 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 **Oct 2018**: Yuchao gave a talk at AISC 2018. ([Link](https://www.uncg.edu/mat/aisc/2018/index.html))
 
-**Sept 2018**: Tianyou Luo (first year Biostatistics PhD student) joined the lab as a graduate research assistant. Welcome Tianyou!
-
 **Aug 2018**: Yuchao gave a talk at JSM 2018. ([Link](https://ww2.amstat.org/meetings/jsm/2018/onlineprogram/ActivityDetails.cfm?SessionID=215048))
 
 **Jul 2018**: The lab received funding from the [Jayne Koskinas Ted Giovanis Foundation for Health and Policy](http://jktgfoundation.org/) for a multi-PI proposal titled "Single-Cell Dynamics for Precision Medicine in Cancer", joint with [Stephanie Hicks](http://www.stephaniehicks.com/) from Johns Hopkins and [Sahand Hormoz](https://hormoz.hms.harvard.edu/) from Harvard.
