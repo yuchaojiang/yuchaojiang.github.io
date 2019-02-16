@@ -25,7 +25,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 </div>
 
 ### News
-**Feb 2019**: Book chapter on allele-specific gene expression analysis by single-cell RNA-seq is available online in [Computational Methods for Single-Cell Data Analysis](https://www.springer.com/us/book/9781493990566), edited by Dr. Guo-Cheng Yuan. ([Link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+**Feb 2019**: Book chapter on allele-specific gene expression analysis by single-cell RNA-seq is available online in [Computational Methods for Single-Cell Data Analysis](https://www.springer.com/us/book/9781493990566) by Springer, edited by Dr. Guo-Cheng Yuan. ([Link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 **Feb 2019**: Yuchao gave a talk at the Michigan Center for Single-Cell Genomic Data Analytics at the University of Michigan.
 
