@@ -14,11 +14,11 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-### Book Chapters
+#### Book Chapters
 
 Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. Computational Methods for Single-Cell Data Analysis. ***Methods in Molecular Biology***, vol 1935. Humana Press, New York, NY, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
-### Journal Articles
+#### Journal Articles
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, to appear, 2019. ([link](http://biorxiv.org/cgi/content/short/461905v2))
 
