@@ -16,7 +16,7 @@ description: Yuchao Jiang's publications
 
 ### Book Chapters
 
-Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. Computational Methods for Single-Cell Data Analysis. ***Methods in Molecular Biology***, vol 1935. Humana Press, New York, NY, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. ***Computational Methods for Single-Cell Data Analysis***, 155-174. Humana Press, New York, NY, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 ### Journal Articles
 
