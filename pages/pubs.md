@@ -20,7 +20,7 @@ Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Spec
 
 ### Journal Articles
 
-Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Increase of nucleotide excision repair capacity accompanies differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, to appear, 2019.
+Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, to appear, 2019. ([link](http://www.jbc.org/content/early/2019/02/26/jbc.RA119.007861.abstract))
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, to appear, 2019. ([link](http://biorxiv.org/cgi/content/short/461905v2))
 
