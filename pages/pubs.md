@@ -20,6 +20,8 @@ Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Spec
 
 ### Journal Articles
 
+Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Increase of nucleotide excision repair capacity accompanies differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, to appear, 2019.
+
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, to appear, 2019. ([link](http://biorxiv.org/cgi/content/short/461905v2))
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
