@@ -14,15 +14,11 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-### Book Chapters
-
-Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. ***Computational Methods for Single-Cell Data Analysis***, 155-174. Humana Press, New York, NY, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
-
-### Journal Articles
-
 Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, jbc-RA119, 2019. ([link](http://www.jbc.org/content/early/2019/02/26/jbc.RA119.007861.abstract))
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, btz141, 2019. ([link](https://doi.org/10.1093/bioinformatics/btz141))
+
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
