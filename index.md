@@ -33,6 +33,8 @@ The Jiang Lab’s primary research interests lie in statistical modeling, method
 I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as an Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017.
 
 ### News
+**Mar 2019**: Yuchao gave a talk at the National Institute of Environmental Health Sciences (NIEHS) Biostatistics & Computational Biology Branch.
+
 **Mar 2019**: Destin is published in Bioinformatics! ([HTML](https://academic.oup.com/bioinformatics/advance-article/doi/10.1093/bioinformatics/btz141/5367832), [GitHub](https://github.com/urrutiag/destin/))
 
 **Feb 2019**: Book chapter on allele-specific gene expression analysis by single-cell RNA-seq is available online in [Computational Methods for Single-Cell Data Analysis](https://www.springer.com/us/book/9781493990566) by Springer, edited by Dr. Guo-Cheng Yuan. ([Link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
