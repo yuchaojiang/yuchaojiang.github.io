@@ -18,3 +18,8 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 [<a href="https://www.dropbox.com/s/n6vlqyzyp0v82xo/BIOS785_Spring2019_Yuchao_Jiang.pdf?dl=0" title="Syllabus BIOS785">Syllabus</a>,
 	<a href="https://goo.gl/tmihLU" title="Course Website">Website</a>]
 </div>
+<br/>
+<div class="cv">
+  <b>BIOS635</b>, <i>Introduction to Machine Learning</i>, Spring 2020 <br/>
+Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
+</div>
