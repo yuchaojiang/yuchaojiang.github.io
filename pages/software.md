@@ -17,3 +17,7 @@ description: Yuchao Jiang's software
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [notebook](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
 
 **Destin**: Toolkit for single-cell analysis of chromatin accessibility ([GitHub](https://github.com/urrutiag/destin), [notebook1](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinBuenrostroMouse.html), [notebook2](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinPreisslP56.html))
+
+**SCOPE**: A normalization and copy number estimation method for single-cell DNA
+sequencing ([GitHub](https://github.com/rujinwang/SCOPE), [notebook](http://htmlpreview.github.io/?https://github.com/rujinwang/SCOPE/blob/master/SCOPE_tutorial.html))
+
