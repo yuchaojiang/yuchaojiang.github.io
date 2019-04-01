@@ -20,7 +20,7 @@ Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, btz141, 2019. ([link](https://doi.org/10.1093/bioinformatics/btz141))
 
-Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-Cell Allele-Specific Gene Expression Analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
