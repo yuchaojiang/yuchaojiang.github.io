@@ -14,7 +14,7 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***bioRxiv***, 2019.
+Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***bioRxiv***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v1))
 
 Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, jbc-RA119, 2019. ([link](http://www.jbc.org/content/early/2019/02/26/jbc.RA119.007861.abstract))
 
