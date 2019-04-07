@@ -14,6 +14,10 @@ description: Yuchao Jiang's software
 
 **CODEX2**: Full-spectrum copy number variation detection by high-throughput DNA sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [notebook](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
 
+**Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN]https://CRAN.R-project.org/package=falconx)
+
+NUMBER ESTIMATION BYWHOLE EXOME SEQUENCING
+
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [notebook](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
 
 **Destin**: Toolkit for single-cell analysis of chromatin accessibility ([GitHub](https://github.com/urrutiag/destin), [notebook1](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinBuenrostroMouse.html), [notebook2](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinPreisslP56.html))
