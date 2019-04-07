@@ -17,6 +17,7 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
 
 <div class="container">
     <div class="row-fluid">
+            <a href="https://github.com/yuchaojiang">GitHub</a>
             <a href="https://twitter.com/yuchaojiang">@yuchaojiang</a><br/>
             <a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Department of Biostatistics bio</a><br/>
             <a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Department of Genetics bio</a><br/>
