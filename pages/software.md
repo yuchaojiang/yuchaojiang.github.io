@@ -14,7 +14,7 @@ description: Yuchao Jiang's software
 
 **CODEX2**: Full-spectrum copy number variation detection by high-throughput DNA sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [notebook](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
 
-**Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN]https://CRAN.R-project.org/package=falconx)
+**Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN](https://CRAN.R-project.org/package=falconx))
 
 NUMBER ESTIMATION BYWHOLE EXOME SEQUENCING
 
