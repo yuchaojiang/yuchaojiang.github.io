@@ -18,9 +18,9 @@ Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Pero
 
 Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Chen Li. A phylogeny-regularized convolutional neural network for predictive modeling of microbiome data. ***Submitted***, 2019.
 
-Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***bioRxiv***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
+Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
 
-Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***bioRxiv***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v1))
+Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v1))
 
 Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
 
