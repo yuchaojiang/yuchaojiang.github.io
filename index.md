@@ -36,7 +36,7 @@ I obtained my Ph.D. in Genomics and Computational Biology from the University of
 ### News
 **Aug 2019**: Yuchao gave a talk at the Young Bioinformatics PI Workshop at Tsinghua University.
 
-**Jul 2019**: Yuchao taught a tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis" with Rhonda Bacher and Jingshu Wang at ISMB/EECB 2019. ([Link](https://www.iscb.org/ismbeccb2019-program/tutorials#am2))
+**Jul 2019**: Yuchao gave a tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis" with Rhonda Bacher and Jingshu Wang at ISMB/EECB 2019. ([Link](https://www.iscb.org/ismbeccb2019-program/tutorials#am2), [Website](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial))
 
 **Jun 2019**: Yuchao gave a talk at the [ICSA Applied Statistics Symposium](https://symposium2019.icsa.org/main.html).
 
