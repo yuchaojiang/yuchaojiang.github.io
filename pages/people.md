@@ -43,6 +43,21 @@ Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.u
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Rujin.jpg">
+            <img src="../assets/pics/Wenwen.png" height="200" width="240" title="Rujin Wang" alt="Rujin Wang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Wenwen Mei, Biostatistics student.
+
+<br/>
+
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Rujin.jpg">
             <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
         </a>
         </div>
