@@ -4,10 +4,6 @@ title: Lab members
 description: Jiang Lab members
 ---
 
-
-
-
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
@@ -19,7 +15,7 @@ description: Jiang Lab members
 </div>
 
 <div class="cv">
-	Yuchao Jiang, Principal Investigator. <br/>
+	Yuchao Jiang, Principal Investigator <br/>
 	<a href="https://www.dropbox.com/s/syzl3rtqjzr49di/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>
 </div>
 
@@ -35,7 +31,9 @@ description: Jiang Lab members
     </div>
 </div>
 
-Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/).
+Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
+MS, Biostatistics, UNC Chapel Hill, 2016
+BS, Statistics, Chongqing University, 2014
 
 <br/>
 
@@ -49,7 +47,8 @@ Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.u
     </div>
 </div>
 
-Wenwen Mei, Biostatistics student.
+Wenwen Mei, Biostatistics PhD student
+BSPH, Biostatistics, UNC Chapel Hill, 2019
 
 <br/>
 
@@ -64,7 +63,9 @@ Wenwen Mei, Biostatistics student.
     </div>
 </div>
 
-Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/).
+Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
+MS, Biostatistics, UNC Chapel Hill, 2016
+BS, Financial Engineering, Capital University of Economics and Business, 2014
 
 <br/>
 
@@ -82,7 +83,7 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
     </div>
 </div>
 
-Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/). <br/>
+Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
