@@ -40,7 +40,7 @@ BS, Statistics, Chongqing University, 2014
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Rujin.jpg">
+        <a href="../assets/pics/Wenwen.jpg">
             <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
         </a>
         </div>
