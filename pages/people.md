@@ -31,8 +31,8 @@ description: Jiang Lab members
     </div>
 </div>
 
-Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
-MS, Biostatistics, UNC Chapel Hill, 2016
+Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
+MS, Biostatistics, UNC Chapel Hill, 2016 <br/>
 BS, Statistics, Chongqing University, 2014
 
 <br/>
@@ -47,7 +47,7 @@ BS, Statistics, Chongqing University, 2014
     </div>
 </div>
 
-Wenwen Mei, Biostatistics PhD student
+Wenwen Mei, Biostatistics PhD student <br/>
 BSPH, Biostatistics, UNC Chapel Hill, 2019
 
 <br/>
@@ -63,8 +63,8 @@ BSPH, Biostatistics, UNC Chapel Hill, 2019
     </div>
 </div>
 
-Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
-MS, Biostatistics, UNC Chapel Hill, 2016
+Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
+MS, Biostatistics, UNC Chapel Hill, 2016 <br/>
 BS, Financial Engineering, Capital University of Economics and Business, 2014
 
 <br/>
@@ -84,6 +84,8 @@ BS, Financial Engineering, Capital University of Economics and Business, 2014
 </div>
 
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
+BS, Biology, Duke Univeristy, 2002 <br/>
+PhD, Biostatistics, UNC Chapel Hill, 2013 <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
