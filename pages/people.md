@@ -49,6 +49,7 @@ BS, Statistics, Chongqing University, 2014
 
 Wenwen Mei, Biostatistics PhD student <br/>
 BSPH, Biostatistics, UNC Chapel Hill, 2019
+BA, Asian Studies, UNC Chapel Hill, 2019
 
 <br/>
 
