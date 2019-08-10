@@ -41,7 +41,7 @@ BS, Statistics, Chongqing University, 2014
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Rujin.jpg">
-            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Rujin Wang" alt="Wenwen Mei"/>
+            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
         </a>
         </div>
     </div>
