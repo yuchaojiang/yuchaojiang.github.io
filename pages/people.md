@@ -48,7 +48,7 @@ BS, Statistics, Chongqing University, 2014
 </div>
 
 Zhiwen (Owen) Jiang, Biostatistics MS student <br/>
-BS, Agricultural Resource Sciences and Environment, Zhejiang University, 2019 
+BS, Agricultural Resource Sciences and Environment (minor in Statistics), Zhejiang University, 2019 
 
 <br/>
 
