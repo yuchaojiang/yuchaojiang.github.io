@@ -40,6 +40,21 @@ BS, Statistics, Chongqing University, 2014
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/pics/Zhiwen.jpg">
+            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Zhiwen (Owen) Jiang, Biostatistics MS student <br/>
+BS, Agricultural Resource Sciences and Environment, Zhejiang University, 2019 
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/pics/Wenwen.jpg">
             <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
         </a>
