@@ -14,6 +14,8 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
+Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by single-cell RNA sequencing. ***Submitted***, 2019.
+
 Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Chen Li. A phylogeny-regularized convolutional neural network for predictive modeling of microbiome data. ***Submitted***, 2019.
 
 Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
