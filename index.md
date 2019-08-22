@@ -34,6 +34,8 @@ The Jiang Lab’s primary research interests lie in statistical modeling, method
 I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as a tenure-track Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017.
 
 ### News
+**Aug 2019**: Biostatistics graduate students Wenwen Mei and Zhiwen (Owen) Jiang joined the lab. Welcome!
+
 **Aug 2019**: Yuchao gave a talk at the Young Bioinformatics PI Workshop at Tsinghua University.
 
 **Jul 2019**: Yuchao gave a tutorial on "Recent Advances in Statistical Methods and Computational Algorithms for Single-Cell Omics Analysis" with Rhonda Bacher and Jingshu Wang at ISMB/EECB 2019. ([Link](https://www.iscb.org/ismbeccb2019-program/tutorials#am2), [Website](https://github.com/rhondabacher/ISMB2019_SingleCellTutorial))
