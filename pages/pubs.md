@@ -14,27 +14,35 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/743591v1))
-
-Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Chen Li. A phylogeny-regularized convolutional neural network for predictive modeling of microbiome data. ***Submitted***, 2019.
-
-Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
+### Preprints
 
 Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v1))
 
-Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
+Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/743591v1))
 
-Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, btz141, 2019. ([link](https://doi.org/10.1093/bioinformatics/btz141))
+Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
 
-Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Chen Li. A phylogeny-regularized convolutional neural network for predictive modeling of microbiome data. ***Submitted***, 2019.
+
+### 2019
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
+Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, btz141, 2019. ([link](https://doi.org/10.1093/bioinformatics/btz141))
+
 Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](http://www.jbc.org/content/294/1/210.short))
+
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+
+Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
+
+### 2018
 
 **Jiang Y<sup>&sect;</sup>**, Wang R<sup>&dagger;</sup>, Urrutia E<sup>&dagger;</sup>, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
 Urrutia E<sup>&dagger;</sup>, Chen H, Zhou Z, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
+
+### 2017
 
 **Jiang Y**, Zhang NR, Li M. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
@@ -44,6 +52,10 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubbenhorst B, Amaravadi R, Bennett J, Beqiri M, Elder D, Flaherty KT, Frederick DT, Gangadhar TC, Guarino M, Hoon D, Karakousis G, Liu Q, Mitra N, Petrelli NJ, Schuchter L, Shannan B, Shields CL, Wargo J, Wenz B, Wilson MA, Xiao M, Xu W, Xu X, Yin X, Zhang NR, Davies MA, Herlyn M, Nathanson KL. Genetic and Genomic Characterization of 462 Melanoma Patient-Derived Xenografts, Tumor Biopsies, and Cell Lines. ***Cell Reports***, 21 (7), 1936-1952, 2017. ([link](http://www.cell.com/cell-reports/fulltext/S2211-1247(17)31499-7))
 
+### 2016
+
 **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
+
+### 2015
 
 **Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. ***Nucleic Acids Research***, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
