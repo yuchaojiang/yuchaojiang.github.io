@@ -16,11 +16,11 @@ description: Yuchao Jiang's publications
 
 ### Preprints
 
-Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v1))
+Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Revision submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v2))
 
 Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/743591v1))
 
-Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
+Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Revision submitted***, 2019. ([link](https://www.biorxiv.org/content/10.1101/645820v1))
 
 Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Chen Li. A phylogeny-regularized convolutional neural network for predictive modeling of microbiome data. ***Submitted***, 2019.
 
