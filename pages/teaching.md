@@ -23,4 +23,5 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 <div class="cv">
   <b>BIOS635</b>, <i>Introduction to Machine Learning</i>, Spring 2020 <br/>
 Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
+[<a href="https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0" title="Syllabus BIOS635">Syllabus</a>]
 </div>
