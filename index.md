@@ -16,18 +16,6 @@ description: I am an Assistant Professor in the Department of Biostatistics and 
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
 </div>
-
-<div class="container">
-    <div class="row-fluid">
-            Official website: 
-            <a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Biostatistics</a>,
-            <a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Genetics</a>,
-            <a href="http://unclineberger.org/people/profiles/yuchao-jiang">Lineberger Cancer Center</a><br/>
-            <a href="https://github.com/yuchaojiang">GitHub</a>,
-            <a href="https://twitter.com/yuchaojiang">@yuchaojiang</a><br/>
-    </div>
-</div>
-
 <br/>
 I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012 working with Dr. [Thomas D. Fox](https://mbg.cornell.edu/people/thomas-fox/). I started as a tenure-track Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017.
 
@@ -37,9 +25,18 @@ The Jiang Lab’s primary research interests lie in statistical modeling and met
 
 ### Contact info
 
-Email: yuchaoj *at* email *dot* unc *dot* edu<br/>
-Address:<br/>
-  4115D [McGavran-Greenberg Hall](https://www.google.com/maps/place/Department+of+Biostatistics/@35.9061903,-79.0566287,17z/data=!4m13!1m7!3m6!1s0x89acc2e599b51fbd:0x5ccfa4e0f5264ef1!2sMcGavran-Greenberg+Hall,+Chapel+Hill,+NC+27516!3b1!8m2!3d35.9058418!4d-79.0545303!3m4!1s0x0:0x6abad7990ead6ae1!8m2!3d35.9061318!4d-79.0543583), 135 Dauer Drive, Chapel Hill, NC 27599-7420 (Biostatistics)<br/>
-  5112 [Genetic Medicine Building](https://www.google.com/maps/place/Department+of+Genetics/@35.9018309,-79.0549154,18.26z/data=!4m13!1m7!3m6!1s0x89acc2faae0c4f8b:0x69ea9dac5691824f!2sMarsico+Hall,+Chapel+Hill,+NC+27599!3b1!8m2!3d35.9025392!4d-79.0540141!3m4!1s0x0:0x2eb22192ccef1dbd!8m2!3d35.9011941!4d-79.0542741), 120 Mason Farm Road, Chapel Hill, NC 27599-7264 (Genetics)<br/>
-Phone: (919)843-3656<br/>
-Fax: (919)966-3804<br/>
+<div class="container">
+    <div class="row-fluid">
+            Phone: (919)843-3656<br/>
+            Fax: (919)966-3804<br/>
+            Email: yuchaoj *at* email *dot* unc *dot* edu<br/>
+            Biostatistics Address:   4115D [McGavran-Greenberg Hall](https://www.google.com/maps/place/Department+of+Biostatistics/@35.9061903,-79.0566287,17z/data=!4m13!1m7!3m6!1s0x89acc2e599b51fbd:0x5ccfa4e0f5264ef1!2sMcGavran-Greenberg+Hall,+Chapel+Hill,+NC+27516!3b1!8m2!3d35.9058418!4d-79.0545303!3m4!1s0x0:0x6abad7990ead6ae1!8m2!3d35.9061318!4d-79.0543583), 135 Dauer Drive, Chapel Hill, NC 27599-7420<br/>
+            Genetics Address: 5112 [Genetic Medicine Building](https://www.google.com/maps/place/Department+of+Genetics/@35.9018309,-79.0549154,18.26z/data=!4m13!1m7!3m6!1s0x89acc2faae0c4f8b:0x69ea9dac5691824f!2sMarsico+Hall,+Chapel+Hill,+NC+27599!3b1!8m2!3d35.9025392!4d-79.0540141!3m4!1s0x0:0x2eb22192ccef1dbd!8m2!3d35.9011941!4d-79.0542741), 120 Mason Farm Road, Chapel Hill, NC 27599-7264<br/>
+            Official website: 
+            <a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Biostatistics</a>,
+            <a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Genetics</a>,
+            <a href="http://unclineberger.org/people/profiles/yuchao-jiang">Lineberger Cancer Center</a><br/>
+            GitHub: <a href="https://github.com/yuchaojiang">https://github.com/yuchaojiang</a><br/>
+            Twitter: <a href="https://twitter.com/yuchaojiang">@yuchaojiang</a><br/>
+    </div>
+</div>
