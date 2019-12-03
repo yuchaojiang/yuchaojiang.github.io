@@ -4,7 +4,6 @@ title: Jiang Lab
 description: I am an Assistant Professor in the Department of Biostatistics and the Department of Genetics at the University of North Carolina, Chapel Hill.
 
 ---
-
 ### Biography
 
 <div class="container">
