@@ -14,7 +14,7 @@ title: Jiang Lab
     </div>
 </div>
 
-I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012 working with Dr. [Thomas D. Fox](https://mbg.cornell.edu/people/thomas-fox/). I started as a tenure-track Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017.
+I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as a tenure-track Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017.
 
 ### Research
 
