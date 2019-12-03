@@ -30,8 +30,8 @@ The Jiang Lab’s primary research interests lie in statistical modeling and met
             Phone: (919)843-3656<br/>
             Fax: (919)966-3804<br/>
             Email: yuchaoj *at* email *dot* unc *dot* edu<br/>
-            Biostatistics Address:   4115D [McGavran-Greenberg Hall](https://www.google.com/maps/place/Department+of+Biostatistics/@35.9061903,-79.0566287,17z/data=!4m13!1m7!3m6!1s0x89acc2e599b51fbd:0x5ccfa4e0f5264ef1!2sMcGavran-Greenberg+Hall,+Chapel+Hill,+NC+27516!3b1!8m2!3d35.9058418!4d-79.0545303!3m4!1s0x0:0x6abad7990ead6ae1!8m2!3d35.9061318!4d-79.0543583), 135 Dauer Drive, Chapel Hill, NC 27599-7420<br/>
-            Genetics Address: 5112 [Genetic Medicine Building](https://www.google.com/maps/place/Department+of+Genetics/@35.9018309,-79.0549154,18.26z/data=!4m13!1m7!3m6!1s0x89acc2faae0c4f8b:0x69ea9dac5691824f!2sMarsico+Hall,+Chapel+Hill,+NC+27599!3b1!8m2!3d35.9025392!4d-79.0540141!3m4!1s0x0:0x2eb22192ccef1dbd!8m2!3d35.9011941!4d-79.0542741), 120 Mason Farm Road, Chapel Hill, NC 27599-7264<br/>
+            Biostatistics Address:   4115D <a href="https://www.google.com/maps/place/Department+of+Biostatistics/@35.9061903,-79.0566287,17z/data=!4m13!1m7!3m6!1s0x89acc2e599b51fbd:0x5ccfa4e0f5264ef1!2sMcGavran-Greenberg+Hall,+Chapel+Hill,+NC+27516!3b1!8m2!3d35.9058418!4d-79.0545303!3m4!1s0x0:0x6abad7990ead6ae1!8m2!3d35.9061318!4d-79.0543583">McGavran-Greenberg Hall</a>, 135 Dauer Drive, Chapel Hill, NC 27599-7420<br/>
+            Genetics Address: 5112 <a href="https://www.google.com/maps/place/Department+of+Genetics/@35.9018309,-79.0549154,18.26z/data=!4m13!1m7!3m6!1s0x89acc2faae0c4f8b:0x69ea9dac5691824f!2sMarsico+Hall,+Chapel+Hill,+NC+27599!3b1!8m2!3d35.9025392!4d-79.0540141!3m4!1s0x0:0x2eb22192ccef1dbd!8m2!3d35.9011941!4d-79.0542741">Genetic Medicine Building</a>, 120 Mason Farm Road, Chapel Hill, NC 27599-7264<br/>
             Official website: 
             <a href="http://sph.unc.edu/adv_profile/yuchao-jiang-phd/">Biostatistics</a>,
             <a href="https://www.med.unc.edu/genetics/people/joint-secondary-faculty/yuchao-jiang-phd">Genetics</a>,
