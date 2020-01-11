@@ -18,19 +18,21 @@ description: Yuchao Jiang's publications
 
 Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***bioRxiv***, 2019. ([link](https://www.biorxiv.org/content/10.1101/594267v2))
 
-### 2019
+### 2020
 
-Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, to appear, 2019. ([link](https://www.biorxiv.org/content/10.1101/743591v1))
+Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
+
+Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
+
+### 2019
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
 Urrutia E<sup>&dagger;</sup>, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, 35 (19), 3818-3820, 2019. ([link](https://academic.oup.com/bioinformatics/article/35/19/3818/5367832/))
 
-Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, gkz959, 2019. ([link](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkz959/5644992))
-
 Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](http://www.jbc.org/content/294/1/210.short))
 
-Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. (Invited book chapter; [link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+Dong M<sup>&dagger;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. (Invited book chapter in Computational Methods for Single-Cell Data Analysis; [link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 Li W, Liu W, Kakoki A, Wang R<sup>&dagger;</sup>, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
 
