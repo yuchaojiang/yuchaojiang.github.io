@@ -73,7 +73,7 @@ Wenwen Mei, Biostatistics PhD student
     </div>
 </div>
 
-Matthew Regner, Bioinformatics and Computational Biology PhD student
+Matthew Regner, Bioinformatics and Computational Biology PhD rotation student
 
 <br/>
 
@@ -91,6 +91,21 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Yuriko.jpg">
+            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Yuriko Harigaya, Bioinformatics and Computational Biology PhD rotation student
+
+<br/>
+
+
 
 ## Alumni
 ------
@@ -106,8 +121,6 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
 </div>
 
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
-BS, Biology, Duke Univeristy, 2002 <br/>
-PhD, Biostatistics, UNC Chapel Hill, 2013 <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
