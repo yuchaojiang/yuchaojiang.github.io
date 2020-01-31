@@ -31,9 +31,7 @@ description: Jiang Lab members
     </div>
 </div>
 
-Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
-MS, Biostatistics, UNC Chapel Hill, 2016 <br/>
-BS, Statistics, Chongqing University, 2014
+Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
 
 <br/>
 
@@ -47,8 +45,7 @@ BS, Statistics, Chongqing University, 2014
     </div>
 </div>
 
-Zhiwen (Owen) Jiang, Biostatistics MS student <br/>
-BS, Agricultural Resource Sciences and Environment (minor in Statistics), Zhejiang University, 2019 
+Zhiwen (Owen) Jiang, Biostatistics MS student
 
 <br/>
 
@@ -62,12 +59,23 @@ BS, Agricultural Resource Sciences and Environment (minor in Statistics), Zhejia
     </div>
 </div>
 
-Wenwen Mei, Biostatistics PhD student <br/>
-BSPH, Biostatistics, UNC Chapel Hill, 2019 <br/>
-BA, Asian Studies, UNC Chapel Hill, 2019
+Wenwen Mei, Biostatistics PhD student
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Matt.jpg">
+            <img src="../assets/pics/Matt.jpg" height="200" width="200" title="Matthew Regner" alt="Matthew Regner"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Matthew Regner, Bioinformatics and Computational Biology PhD student
+
+<br/>
 
 <div class="container">
     <div class="row-fluid">
@@ -79,9 +87,7 @@ BA, Asian Studies, UNC Chapel Hill, 2019
     </div>
 </div>
 
-Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
-MS, Biostatistics, UNC Chapel Hill, 2016 <br/>
-BS, Financial Engineering, Capital University of Economics and Business, 2014
+Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
 
 <br/>
 
