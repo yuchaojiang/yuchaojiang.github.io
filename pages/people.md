@@ -9,7 +9,6 @@ description: Jiang Lab members
         <div class="span2">
         <a href="../assets/pics/Yuchao.jpg">
             <img src="../assets/pics/Yuchao.jpg" height="200" width="200" title="Yuchao Jiang" alt="Yuchao Jiang"/>
-	<a href="https://www.dropbox.com/s/syzl3rtqjzr49di/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>
         </a>
         </div>
     </div>
@@ -17,6 +16,7 @@ description: Jiang Lab members
 
 <div class="cv">
 	Yuchao Jiang, Principal Investigator <br/>
+	<a href="https://www.dropbox.com/s/syzl3rtqjzr49di/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a> <br/>
 </div>
 
 <br/>
