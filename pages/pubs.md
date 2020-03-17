@@ -16,6 +16,8 @@ description: Yuchao Jiang's publications
 
 ### 2020
 
+Wang R<sup>&dagger;</sup>, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, in press, 2020. ([link](https://www.biorxiv.org/content/10.1101/594267v2))
+
 Dong M<sup>&dagger;</sup>, Thennavan A, Urrutia E<sup>&dagger;</sup>, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
 Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
