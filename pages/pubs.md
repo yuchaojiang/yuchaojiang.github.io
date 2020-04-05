@@ -14,7 +14,7 @@ description: Yuchao Jiang's publications
 
 **Key**: &sect; indicates (co-)corresponding author; &dagger; indicates advisee.
 
-### 2020
+### Preprint
 
 Mei W<sup>&dagger;</sup>, Jiang Z<sup>&dagger;</sup>, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. bioRxiv, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.04.024729v1))
 
