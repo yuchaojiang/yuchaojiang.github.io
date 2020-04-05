@@ -66,20 +66,6 @@ Wenwen Mei, Biostatistics PhD student
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Matt.jpg">
-            <img src="../assets/pics/Matt.jpg" height="200" width="200" title="Matthew Regner" alt="Matthew Regner"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Matthew Regner, Bioinformatics and Computational Biology PhD rotation student
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/Rujin.jpg">
             <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
         </a>
@@ -109,6 +95,20 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD rotation student
 
 ## Alumni
 ------
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Matt.jpg">
+            <img src="../assets/pics/Matt.jpg" height="200" width="200" title="Matthew Regner" alt="Matthew Regner"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student<br/>
+Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
+<br/>
 
 <div class="container">
     <div class="row-fluid">
