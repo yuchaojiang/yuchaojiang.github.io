@@ -108,6 +108,7 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD rotation student
 
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student<br/>
 Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
+
 <br/>
 
 <div class="container">
