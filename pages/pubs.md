@@ -26,6 +26,8 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
 
+Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, in press, 2020.
+
 ### 2019
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
