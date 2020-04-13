@@ -12,7 +12,7 @@ description: Yuchao Jiang's software
 
 **Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN](https://CRAN.R-project.org/package=falconx))
 
-### Tumor heterogeneity
+### Intratumor heterogeneity
 
 **Canopy**: Accessing Intra-Tumor Heterogeneity and Tracking Longitudinal and Spatial Clonal Evolutionary History by Next-Generation Sequencing ([CRAN](https://cran.r-project.org/web/packages/Canopy/index.html), [GitHub](https://github.com/yuchaojiang/Canopy), [vignettes](https://cran.rstudio.com/web/packages/Canopy/vignettes/Canopy_vignettes.pdf))
 
@@ -28,3 +28,10 @@ description: Yuchao Jiang's software
 
 **SCOPE**: A normalization and copy number estimation method for single-cell DNA
 sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](https://github.com/rujinwang/SCOPE), [vignettes](http://bioconductor.org/packages/devel/bioc/vignettes/SCOPE/inst/doc/SCOPE_vignette.html))
+
+
+### Other omics
+
+**Circadian rhythm**: [vignettes](https://htmlpreview.github.io/?https://github.com/wenwenm183/Circadian_Genes_Benchmark/blob/master/vignettes/Vignettes-of-Circadian-Paper.html)
+
+**DNA damage and excision repair**: [GitHub](https://github.com/yuchaojiang/damage_repair)
