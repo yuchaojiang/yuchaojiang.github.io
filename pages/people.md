@@ -24,8 +24,8 @@ description: Jiang Lab members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Meichen.jpg">
-            <img src="../assets/pics/Meichen.jpg" height="200" width="200" title="Meichen Dong" alt="Meichen Dong"/>
+        <a href="../assets/pics/Zhiwen.jpg">
+            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
         </a>
         </div>
     </div>
@@ -97,20 +97,17 @@ Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hi
 
 <br/>
 
-
-Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
-
-<br/>
-
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Zhiwen.jpg">
-            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
+        <a href="../assets/pics/Meichen.jpg">
+            <img src="../assets/pics/Meichen.jpg" height="200" width="200" title="Meichen Dong" alt="Meichen Dong"/>
         </a>
         </div>
     </div>
 </div>
+
+Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
 
 <br/>
 
