@@ -31,20 +31,6 @@ description: Jiang Lab members
     </div>
 </div>
 
-Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Zhiwen.jpg">
-            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
 Zhiwen (Owen) Jiang, Biostatistics MS student
 
 <br/>
@@ -108,6 +94,23 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD student
 
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student<br/>
 Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
+
+<br/>
+
+
+Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Zhiwen.jpg">
+            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
+        </a>
+        </div>
+    </div>
+</div>
 
 <br/>
 
