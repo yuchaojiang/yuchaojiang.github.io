@@ -108,6 +108,7 @@ Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hi
 </div>
 
 Meichen Dong, Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/)
+Next position: [Fei Zou Lab](https://sph.unc.edu/adv_profile/fei-zou-phd/), UNC Chapel Hill.
 
 <br/>
 
