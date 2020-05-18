@@ -26,3 +26,9 @@ Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel
 [<a href="https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0" title="Syllabus BIOS635">Syllabus</a>, <a href="https://github.com/yuchaojiang/BIOS635/" title="Course Website">Website</a>,
 	<a href="https://www.dropbox.com/s/qgxn7j80wwpfl3s/selected_evaluation.pdf?dl=0" title="Selected Evaluation">Evaluation</a>]
 </div>
+<br/>
+<div class="cv">
+  <b>BIOS/BCB785</b>, <i>Statistical Methods for Gene Expression Analysis</i>, Fall 2020 <br/>
+Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
+Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC Chapel Hill
+</div>
