@@ -26,9 +26,9 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
-Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
+Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, bbaa073, 2020. ([link](https://doi.org/10.1093/bib/bbaa073))
 
-Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, in press, 2020.
+Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
 
 ### 2019
 
