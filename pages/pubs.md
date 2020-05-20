@@ -22,7 +22,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 ### 2020
 
-**Wang R**, Lin D, **Jiang Y**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, in press, 2020. ([link](https://www.biorxiv.org/content/10.1101/594267v2))
+**Wang R**, Lin D, **Jiang Y**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
