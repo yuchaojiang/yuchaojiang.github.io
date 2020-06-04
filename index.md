@@ -7,8 +7,8 @@ title: Jiang Lab
 <div class="container">
     <div class="row-fluid">
             Yuchao Jiang, Principal Investigator<br/>
-            Assistant Professor, <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
-            Assistant Professor, <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
+            Assistant Professor (Tenure-Track), <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
+            Assistant Professor (Tenure-Track), <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
             Member, <a href="https://unclineberger.org/">Lineberger Comprehensive Cancer Center</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
