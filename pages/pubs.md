@@ -18,17 +18,17 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1))
 
-**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.04.024729v3))
-
 ### 2020
 
 **Wang R**, Lin D, **Jiang Y**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
-Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, bbaa073, 2020. ([link](https://doi.org/10.1093/bib/bbaa073))
+**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***Briefings in Bioinformatics***, bbaa135, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.04.024729v3))
 
 Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregated clustering via mixture model ensemble. ***Nucleic Acids Research***, 48 (1), 86-95, 2020. ([link](https://academic.oup.com/nar/article/48/1/86/5644992))
+
+Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, bbaa073, 2020. ([link](https://doi.org/10.1093/bib/bbaa073))
 
 ### 2019
 
