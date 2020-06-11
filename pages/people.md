@@ -73,7 +73,7 @@ Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.u
     </div>
 </div>
 
-Yuriko Harigaya, Bioinformatics and Computational Biology PhD student
+Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 <br/>
 
