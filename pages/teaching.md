@@ -31,4 +31,7 @@ Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel
   <b>BIOS/BCB785</b>, <i>Statistical Methods for Gene Expression Analysis</i>, Fall 2020 <br/>
 Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
 Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC Chapel Hill
+<br/>
+[<a href="https://www.dropbox.com/s/z5tqdqnqdtrma5b/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0" title="Syllabus BIOS785">Syllabus</a>,
+	<a href="https://github.com/yuchaojiang/BIOSBCB785" title="Course Website">Website</a>]
 </div>
