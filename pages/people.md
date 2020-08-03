@@ -77,7 +77,7 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
     </div>
 </div>
 
-Wenwen Mei (2019-2020), Biostatistics PhD student
+Wenwen Mei (2019-2020), Biostatistics PhD student<br/>
 Next position: [Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/)
 
 <br/>
