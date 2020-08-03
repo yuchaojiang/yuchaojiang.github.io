@@ -38,20 +38,6 @@ Zhiwen (Owen) Jiang, Biostatistics MS student
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Wenwen.jpg">
-            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Wenwen Mei, Biostatistics PhD student
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/Rujin.jpg">
             <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
         </a>
@@ -81,6 +67,20 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 ## Alumni
 ------
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Wenwen.jpg">
+            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Wenwen Mei (2019-2020), Biostatistics PhD student
+Next position: [Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/)
+
+<br/>
 
 <div class="container">
     <div class="row-fluid">
