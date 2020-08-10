@@ -25,6 +25,6 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 [<a href="https://www.dropbox.com/s/z5tqdqnqdtrma5b/BIOS785_Fall2020_Yuchao_Jiang.pdf?dl=0" title="Syllabus BIOS785">Syllabus</a>,
 	<a href="https://github.com/yuchaojiang/BIOSBCB785" title="Course Website">Website</a>]
 <br/>
-[<a href="https://www.dropbox.com/s/4dd3cntz0d2vqt9/selected_evaluation.pdf?dl=0" title="Evaluation 2019">Evaluation</a>]
+[<a href="https://www.dropbox.com/s/4dd3cntz0d2vqt9/selected_evaluation.pdf?dl=0" title="Evaluation 2019">Evaluation 2019</a>]
 <br/>
 </div>
