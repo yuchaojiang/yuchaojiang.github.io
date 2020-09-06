@@ -66,61 +66,20 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 
 ## Alumni
-------
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Wenwen.jpg">
-            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Wenwen Mei" alt="Wenwen Mei"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Wenwen Mei (2019-2020), Biostatistics PhD student<br/>
+Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
 Next position: [Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/)
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Matt.jpg">
-            <img src="../assets/pics/Matt.jpg" height="200" width="200" title="Matthew Regner" alt="Matthew Regner"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student<br/>
+Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Meichen.jpg">
-            <img src="../assets/pics/Meichen.jpg" height="200" width="200" title="Meichen Dong" alt="Meichen Dong"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Meichen Dong (2018-2019), Biostatistics PhD candidate, joint with [Dr. Fei Zou](http://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
+Meichen Dong (2018-2019), Biostatistics Graduate Research Assistant <br/>
 Next position: [Fei Zou Lab](https://sph.unc.edu/adv_profile/fei-zou-phd/), UNC Chapel Hill.
 
 <br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Gene.jpg">
-            <img src="../assets/pics/Gene.jpg" height="200" width="200" title="Gene Urrutia" alt="Gene Urrutia"/>
-        </a>
-        </div>
-    </div>
-</div>
 
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
