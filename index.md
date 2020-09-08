@@ -4,7 +4,7 @@ title: Jiang Lab
 ---
 ### Research
 
-The Jiang Lab’s primary research interests lie in statistical modeling and method development in genetics and genomics, with application to data from large-scale cohort studies of human health and disease. We collaborate with biologists and clinicians to address statistical and computational challenges presented by new cutting-edge technologies and provide data-driven statistical methods to biomedical researchers for better data analysis and experimental design. Our particular focus is on detecting structural variants, assessing intratumor heterogeneity, interrogating genome-wide DNA damage and repair, and deciphering cellular heterogeneity by single-cell omics approaches.
+The Jiang Lab’s primary research interests lie in statistical modeling and method development in genetics and genomics, with application to data from large-scale cohort studies of human health and disease. We collaborate with biologists and clinicians to address statistical and computational challenges presented by new cutting-edge technologies and provide data-driven statistical methods to biomedical researchers for better data analysis and experimental design. Our particular focus is on detecting structural variants, assessing intratumor heterogeneity, interrogating genome-wide DNA damage and repair, and deciphering cellular heterogeneity by single-cell omics approaches. Our research is currently supported by R35 GM138342.
 
 ### Principal Investigator
 
