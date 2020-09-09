@@ -24,20 +24,6 @@ description: Jiang Lab members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Zhiwen.jpg">
-            <img src="../assets/pics/Zhiwen.jpg" height="200" width="200" title="Zhiwen (Owen) Jiang" alt="Zhiwen (Owen) Jiang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Zhiwen (Owen) Jiang, Biostatistics MS student
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/Rujin.jpg">
             <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
         </a>
@@ -66,13 +52,17 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 
 ## Alumni
-Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
-Next position: [Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/)
-
-<br/>
 
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
+
+<br/>
+
+Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
+Next position: [Ni Zhao Lab](http://www.biostat.jhsph.edu/~nzhao/)
+
+Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
+Next position: [Michael Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/)
 
 <br/>
 
