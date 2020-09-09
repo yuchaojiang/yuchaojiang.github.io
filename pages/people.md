@@ -61,6 +61,8 @@ Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hi
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: [Ni Zhao Lab](http://www.biostat.jhsph.edu/~nzhao/), Johns Hopkins University.
 
+<br/>
+
 Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
 Next position: [Michael Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Daniel Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/), UNC Chapel Hill.
 
