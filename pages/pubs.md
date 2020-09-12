@@ -16,7 +16,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 ### Preprint
 
-**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v1))
+**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v2))
 
 ### 2020
 
