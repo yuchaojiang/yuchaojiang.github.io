@@ -18,6 +18,10 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v2))
 
+Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
+
+Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.11.16.385633v1.abstract))
+
 ### 2020
 
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
