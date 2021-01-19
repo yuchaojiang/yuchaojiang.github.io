@@ -24,20 +24,6 @@ description: Jiang Lab members
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Rujin.jpg">
-            <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/Yuriko.jpg">
             <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
         </a>
@@ -49,6 +35,33 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Lihao.jpg">
+            <img src="../assets/pics/Lihao.jpg" height="200" width="200" title="Lihao Wang" alt="Lihao Wang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Lihao Wang, Biostatistics MS student
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Rujin.jpg">
+            <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
+
+<br/>
 
 
 ## Alumni
