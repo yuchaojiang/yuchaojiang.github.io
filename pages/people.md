@@ -38,55 +38,82 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Lihao.jpg">
-            <img src="../assets/pics/Lihao.jpg" height="200" width="200" title="Lihao Wang" alt="Lihao Wang"/>
+        <a href="../assets/pics/Yuriko.jpg">
+            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
         </a>
         </div>
     </div>
 </div>
 
-Lihao Wang, Biostatistics MS student
+Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 <br/>
 
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Rujin.jpg">
-            <img src="../assets/pics/Rujin.jpg" height="200" width="200" title="Rujin Wang" alt="Rujin Wang"/>
+        <a href="../assets/pics/Yuriko.jpg">
+            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
         </a>
         </div>
     </div>
 </div>
 
-Rujin Wang, Biostatistics PhD candidate, joint with [Dr. Danyu Lin](http://sph.unc.edu/adv_profile/danyu-lin-phd/)
+John Lin, Bioinformatics and Computational Biology PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/)
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Yuriko.jpg">
+            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Xiaofei Wei, Biostatistics MS student
 
 <br/>
 
 
 ## Alumni
 
-Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
-Next position: [Hector Franco Lab](https://www.thefrancolab.org/), UNC Chapel Hill.
+### Postdoc
+
+Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
+Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
 
+### PhD
+
+Rujin Wang (2018-2021), Biostatistics PhD student
+Next position: senior statistical geneticist, Regeneron Pharmaceuticals
+
+### MS
+
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
-Next position: [Ni Zhao Lab](http://www.biostat.jhsph.edu/~nzhao/), Johns Hopkins University.
+Next position: UNC Biostatistics PhD program
+
+<br/>
+
+Lihao Wang (2020-2021), Biostatistics MS student <br/>
+Next position: SAS programmer, Jiangsu Hengrui Medicine
+
+<br/>
+
+### Graudate Assistant / Rotation Student
+
+Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 
 <br/>
 
 Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
-Next position: [Michael Hudgens Lab](http://www.bios.unc.edu/~mhudgens/) and [Daniel Westreich Lab](https://sph.unc.edu/adv_profile/daniel-westreich/), UNC Chapel Hill.
 
 <br/>
 
 Meichen Dong (2018-2019), Biostatistics Graduate Research Assistant <br/>
-Next position: [Fei Zou Lab](https://sph.unc.edu/adv_profile/fei-zou-phd/), UNC Chapel Hill.
-
-<br/>
-
-Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
-Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 <br/>
