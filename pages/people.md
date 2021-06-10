@@ -53,7 +53,7 @@ Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](ht
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Yuriko.jpg">
-            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="John Lin" alt="John Lin"/>
         </a>
         </div>
     </div>
@@ -67,7 +67,7 @@ John Lin, Bioinformatics and Computational Biology PhD rotation student, joint w
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Yuriko.jpg">
-            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+            <img src="../assets/pics/XiaofeiWei.jpg" height="200" width="200" title="Xiaofei Wei" alt="Xiaofei Wei"/>
         </a>
         </div>
     </div>
