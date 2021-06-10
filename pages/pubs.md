@@ -23,6 +23,8 @@ Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a nove
 
 Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
 
+Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Submitted***, 2021.
+
 ### 2020
 
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
