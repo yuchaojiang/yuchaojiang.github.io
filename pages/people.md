@@ -81,39 +81,23 @@ Xiaofei Wei, Biostatistics MS student
 ## Alumni
 
 ### Postdoc
-
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
-<br/>
-
 ### PhD
-
 Rujin Wang (2018-2021), Biostatistics PhD student
 Next position: senior statistical geneticist, Regeneron Pharmaceuticals
 
 ### MS
-
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: UNC Biostatistics PhD program
-
-<br/>
 
 Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, Jiangsu Hengrui Medicine
 
-<br/>
-
 ### Graudate Assistant / Rotation Student
-
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
-
-<br/>
 
 Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
 
-<br/>
-
 Meichen Dong (2018-2019), Biostatistics Graduate Research Assistant <br/>
-
-<br/>
