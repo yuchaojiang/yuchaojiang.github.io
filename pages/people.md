@@ -39,7 +39,7 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
     <div class="row-fluid">
         <div class="span2">
         <a href="../assets/pics/Yuriko.jpg">
-            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
+            <img src="../assets/pics/AnnMarie.jpg" height="200" width="200" title="Ann Marie Weideman" alt="Ann Marie Weideman"/>
         </a>
         </div>
     </div>
