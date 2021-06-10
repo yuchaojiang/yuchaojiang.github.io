@@ -86,14 +86,14 @@ Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 ### PhD
 Rujin Wang (2018-2021), Biostatistics PhD student <br/>
-Next position: senior statistical geneticist, Regeneron Pharmaceuticals
+Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
 
 ### MS
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
-Next position: UNC Biostatistics PhD program
+Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
 
 Lihao Wang (2020-2021), Biostatistics MS student <br/>
-Next position: SAS programmer, Jiangsu Hengrui Medicine
+Next position: SAS programmer, [Jiangsu Hengrui Medicine](http://www.hrs.com.cn/)
 
 ### Research Assistant / Rotation Student
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
