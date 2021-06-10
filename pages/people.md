@@ -85,7 +85,7 @@ Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
 ### PhD
-Rujin Wang (2018-2021), Biostatistics PhD student
+Rujin Wang (2018-2021), Biostatistics PhD student <br/>
 Next position: senior statistical geneticist, Regeneron Pharmaceuticals
 
 ### MS
