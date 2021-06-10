@@ -14,13 +14,14 @@ description: Yuchao Jiang's publications
 
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-### Preprint
+### 2021
+**Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. Inferring relevant tissues and cell types for complex traits in genome-wide association studies. ***bioRxiv***, 2021.
 
-**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Nucleotide excision repair hotspots of UV-induced DNA damage in the human genome. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.04.16.045369v2))
+**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
-Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
+Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, bbab189, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.11.16.385633v1.abstract))
 
-Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***bioRxiv***, 2020. ([link](https://www.biorxiv.org/content/10.1101/2020.11.16.385633v1.abstract))
+Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
 
 ### 2020
 
