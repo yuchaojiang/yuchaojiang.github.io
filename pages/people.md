@@ -95,7 +95,7 @@ Next position: UNC Biostatistics PhD program
 Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, Jiangsu Hengrui Medicine
 
-### Graudate Assistant / Rotation Student
+### Research Assistant / Rotation Student
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 
 Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
