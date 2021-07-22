@@ -23,7 +23,7 @@ Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a nove
 
 Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
 
-Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Submitted***, 2021.
+Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
 
 ### 2020
 
