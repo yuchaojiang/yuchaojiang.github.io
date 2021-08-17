@@ -38,6 +38,20 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/pics/Andy_Lee.jpg">
+            <img src="../assets/pics/Andy_Lee.jpg" height="200" width="200" title="Andy Lee" alt="John Lin"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Jin Seok (Andy) Lee, Bioinformatics and Computational Biology PhD rotation student
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/pics/AnnMarie.jpg">
             <img src="../assets/pics/AnnMarie.jpg" height="200" width="200" title="Ann Marie Weideman" alt="Ann Marie Weideman"/>
         </a>
@@ -49,19 +63,6 @@ Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](ht
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/JohnLin.jpg">
-            <img src="../assets/pics/JohnLin.jpg" height="200" width="200" title="John Lin" alt="John Lin"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-John Lin, Bioinformatics and Computational Biology PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/)
-
-<br/>
 
 <div class="container">
     <div class="row-fluid">
@@ -96,6 +97,8 @@ Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, [Jiangsu Hengrui Medicine](http://www.hrs.com.cn/)
 
 ### Research Assistant / Rotation Student
+John Lin (2021), Bioinformatics and Computational Biology PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/) <br/>
+
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 
 Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
