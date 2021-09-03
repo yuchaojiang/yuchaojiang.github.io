@@ -38,20 +38,6 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
-        <a href="../assets/pics/Andy_Lee.jpg">
-            <img src="../assets/pics/Andy_Lee.jpg" height="200" width="200" title="Andy Lee" alt="John Lin"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-Jin Seok (Andy) Lee, Bioinformatics and Computational Biology PhD rotation student
-
-<br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
         <a href="../assets/pics/AnnMarie.jpg">
             <img src="../assets/pics/AnnMarie.jpg" height="200" width="200" title="Ann Marie Weideman" alt="Ann Marie Weideman"/>
         </a>
@@ -63,6 +49,19 @@ Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](ht
 
 <br/>
 
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/Andy_Lee.jpg">
+            <img src="../assets/pics/Andy_Lee.jpg" height="200" width="200" title="Andy Lee" alt="Andy Lee"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Jin Seok (Andy) Lee, Bioinformatics and Computational Biology PhD rotation student
+
+<br/>
 
 <div class="container">
     <div class="row-fluid">
@@ -77,6 +76,21 @@ Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](ht
 Xiaofei Wei, Biostatistics MS student
 
 <br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
+        <a href="../assets/pics/BellaQian.jpg">
+            <img src="../assets/pics/BellaQian.jpg" height="200" width="200" title="BellaQian" alt="BellaQian"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Yunzhe (Bella) Qian, Bachelor of Science in Public Health (BSPH) student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
+
+<br/>
+
 
 
 ## Alumni
