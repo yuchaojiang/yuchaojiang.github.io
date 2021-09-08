@@ -129,6 +129,4 @@ John Lin (2021), Bioinformatics and Computational Biology PhD rotation student, 
 
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
 
-Wenwen Mei (2019-2020), Biostatistics Graduate Research Assistant <br/>
-
 Meichen Dong (2018-2019), Biostatistics Graduate Research Assistant <br/>
