@@ -38,6 +38,20 @@ Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 <div class="container">
     <div class="row-fluid">
         <div class="span2">
+        <a href="../assets/pics/Wenwen.jpg">
+            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Wenwen Mei"/>
+        </a>
+        </div>
+    </div>
+</div>
+
+Wenwen Mei, Biostatistics PhD candidate
+
+<br/>
+
+<div class="container">
+    <div class="row-fluid">
+        <div class="span2">
         <a href="../assets/pics/AnnMarie.jpg">
             <img src="../assets/pics/AnnMarie.jpg" height="200" width="200" title="Ann Marie Weideman" alt="Ann Marie Weideman"/>
         </a>
