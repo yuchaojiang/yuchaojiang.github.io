@@ -4,12 +4,13 @@ title: Lab Members
 description: Jiang Lab Members
 ---
 
+**We are actively looking for graduate students (from Biostatistics and Bioinformatics & Computational Biology) and postdocs. Interested candidates should directly email Dr. Jiang with CVs.**
 
-## PI
+### Members
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8qztxveb9/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>) 
 
-## Members
+<br/>
 
 Yuriko Harigaya, BCB PhD candidate
 
@@ -37,24 +38,24 @@ Xiaofei Wei, Biostatistics MS student
 
 
 
-## Alumni
+### Alumni
 
-### Postdoc
+#### Postdoc
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
-### PhD
+#### PhD
 Rujin Wang (2018-2021), Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
 
-### MS
+#### MS
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
 
 Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, [Jiangsu Hengrui Medicine](http://www.hrs.com.cn/)
 
-### Research Assistant / Rotation Student
+#### Research Assistant / Rotation Student
 John Lin (2021), Bioinformatics and Computational Biology PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/) <br/>
 
 Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
