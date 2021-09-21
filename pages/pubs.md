@@ -14,18 +14,17 @@ description: Yuchao Jiang's publications
 
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-### 2021
+**Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Nonparametric Interrogation of Transcriptional Regulation in Single Cell RNA and Chromatin Accessibility Multiomic Data. ***bioRxiv***, 2021.
+
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
 
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
 Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, bbab189, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab189/6279833))
 
-Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
+Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***Arteriosclerosis, Thrombosis, and Vascular Biology***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
 
 Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
-
-### 2020
 
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
 
@@ -37,8 +36,6 @@ Huh R, Yang Y, **Jiang Y**, Shen Y, Li Y. SAME-clustering: single-cell aggregate
 
 Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, bbaa073, 2020. ([link](https://doi.org/10.1093/bib/bbaa073))
 
-### 2019
-
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
 **Urrutia E**, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, 35 (19), 3818-3820, 2019. ([link](https://academic.oup.com/bioinformatics/article/35/19/3818/5367832/))
@@ -49,13 +46,9 @@ Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<su
 
 Li W, Liu W, Kakoki A, **Wang R**, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
 
-### 2018
-
 **Jiang Y<sup>&sect;</sup>**, **Wang R**, **Urrutia E**, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
 **Urrutia E**, Chen H, Zhou Z, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
-
-### 2017
 
 **Jiang Y**, Zhang NR<sup>&sect;</sup>, Li M<sup>&sect;</sup>. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
 
@@ -65,10 +58,6 @@ Maxwell KN, Wubbenhorst B, Wenz BM, De Sloover D, Pluta J, Emery L, Barrett A, K
 
 Garman B, Anastopoulos IN, Krepler C, Brafford P, Sproesser K, **Jiang Y**, Wubbenhorst B, Amaravadi R, Bennett J, Beqiri M, Elder D, Flaherty KT, Frederick DT, Gangadhar TC, Guarino M, Hoon D, Karakousis G, Liu Q, Mitra N, Petrelli NJ, Schuchter L, Shannan B, Shields CL, Wargo J, Wenz B, Wilson MA, Xiao M, Xu W, Xu X, Yin X, Zhang NR, Davies MA, Herlyn M, Nathanson KL. Genetic and Genomic Characterization of 462 Melanoma Patient-Derived Xenografts, Tumor Biopsies, and Cell Lines. ***Cell Reports***, 21 (7), 1936-1952, 2017. ([link](http://www.cell.com/cell-reports/fulltext/S2211-1247(17)31499-7))
 
-### 2016
-
 **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
-
-### 2015
 
 **Jiang Y**, Oldridge DA, Diskin SJ, Zhang NR. CODEX: a normalization and copy number variation detection method for whole exome sequencing. ***Nucleic Acids Research***, 43 (6), e39-e39, 2015. ([link](https://academic.oup.com/nar/article-lookup/doi/10.1093/nar/gku1363))
