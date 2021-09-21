@@ -4,102 +4,31 @@ title: Lab members
 description: Jiang Lab members
 ---
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Yuchao.jpg">
-            <img src="../assets/pics/Yuchao.jpg" height="200" width="200" title="Yuchao Jiang" alt="Yuchao Jiang"/>
-        </a>
-        </div>
-    </div>
-</div>
-
-<div class="cv">
-	Yuchao Jiang, Principal Investigator <br/>
-	<a href="https://www.dropbox.com/s/le4c12g2xa10gtm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a> <br/>
-</div>
-
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Yuriko.jpg">
-            <img src="../assets/pics/Yuriko.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Yuriko Harigaya"/>
-        </a>
-        </div>
-    </div>
-</div>
+Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8qztxveb9/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>) 
+
+<br/>
 
 Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Wenwen.jpg">
-            <img src="../assets/pics/Wenwen.jpg" height="200" width="200" title="Yuriko Harigaya" alt="Wenwen Mei"/>
-        </a>
-        </div>
-    </div>
-</div>
-
 Wenwen Mei, Biostatistics PhD candidate
 
 <br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/AnnMarie.jpg">
-            <img src="../assets/pics/AnnMarie.jpg" height="200" width="200" title="Ann Marie Weideman" alt="Ann Marie Weideman"/>
-        </a>
-        </div>
-    </div>
-</div>
 
 Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/Andy_Lee.jpg">
-            <img src="../assets/pics/Andy_Lee.jpg" height="200" width="200" title="Andy Lee" alt="Andy Lee"/>
-        </a>
-        </div>
-    </div>
-</div>
-
 Jin Seok (Andy) Lee, Bioinformatics and Computational Biology PhD rotation student
 
 <br/>
 
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/XiaofeiWei.jpg">
-            <img src="../assets/pics/XiaofeiWei.jpg" height="200" width="200" title="Xiaofei Wei" alt="Xiaofei Wei"/>
-        </a>
-        </div>
-    </div>
-</div>
-
 Xiaofei Wei, Biostatistics MS student
 
 <br/>
-
-<div class="container">
-    <div class="row-fluid">
-        <div class="span2">
-        <a href="../assets/pics/BellaQian.jpg">
-            <img src="../assets/pics/BellaQian.jpg" height="200" width="200" title="BellaQian" alt="BellaQian"/>
-        </a>
-        </div>
-    </div>
-</div>
 
 Yunzhe (Bella) Qian, Bachelor of Science in Public Health (BSPH) student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
