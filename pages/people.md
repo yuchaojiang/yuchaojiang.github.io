@@ -22,24 +22,19 @@ Xiaofei Wei, Biostatistics MS student
 
 ### Alumni
 
-**Postdoc**<br/>
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
 
-**PhD**<br/>
 Rujin Wang (2018-2021), Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
 
-**MS**<br/>
+Meichen Dong (2018-2019), Biostatistics PhD student, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
+Next position: Research Statistician Developer, [SAS](https://www.sas.com/)
+
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
 
 Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, [Jiangsu Hengrui Medicine](http://www.hrs.com.cn/)
 
-**Research Assistant/Rotation Student**<br/>
-John Lin (2021), BCB PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/) <br/>
 
-Matthew Regner (2020), BCB PhD rotation student <br/>
-
-Meichen Dong (2018-2019), Biostatistics GRA, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
