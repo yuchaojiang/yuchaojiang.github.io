@@ -38,8 +38,8 @@ Lihao Wang (2020-2021), Biostatistics MS student <br/>
 Next position: SAS programmer, [Jiangsu Hengrui Medicine](http://www.hrs.com.cn/)
 
 **Research Assistant/Rotation Student**<br/>
-John Lin (2021), Bioinformatics and Computational Biology PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/) <br/>
+John Lin (2021), BCB PhD rotation student, joint with [Dr. Thomas Alexander](https://unclineberger.org/directory/thomas-alexander/) <br/>
 
-Matthew Regner (2020), Bioinformatics and Computational Biology PhD rotation student <br/>
+Matthew Regner (2020), BCB PhD rotation student <br/>
 
-Meichen Dong (2018-2019), Biostatistics Graduate Research Assistant, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
+Meichen Dong (2018-2019), Biostatistics GRA, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
