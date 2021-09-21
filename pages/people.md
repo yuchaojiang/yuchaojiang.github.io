@@ -1,14 +1,15 @@
 ---
 layout: page
-title: Lab members
-description: Jiang Lab members
+title: Lab Members
+description: Jiang Lab Members
 ---
 
-<br/>
+
+## PI
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8qztxveb9/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>) 
 
-<br/>
+## Members
 
 Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
 
