@@ -11,7 +11,11 @@ Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8
 
 ## Members
 
-Yuriko Harigaya, Bioinformatics and Computational Biology PhD candidate
+Yuriko Harigaya, BCB PhD candidate
+
+<br/>
+
+Andy Lee, BCB PhD rotation student
 
 <br/>
 
@@ -19,19 +23,15 @@ Wenwen Mei, Biostatistics PhD candidate
 
 <br/>
 
+Bella Qian, BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
+
+<br/>
+
 Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 <br/>
 
-Jin Seok (Andy) Lee, Bioinformatics and Computational Biology PhD rotation student
-
-<br/>
-
 Xiaofei Wei, Biostatistics MS student
-
-<br/>
-
-Yunzhe (Bella) Qian, Bachelor of Science in Public Health (BSPH) student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
 <br/>
 
