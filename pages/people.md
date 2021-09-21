@@ -23,7 +23,7 @@ Xiaofei Wei, Biostatistics MS student
 ### Alumni
 
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
-Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/).
+Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/)
 
 Rujin Wang (2018-2021), Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
