@@ -10,33 +10,17 @@ description: Jiang Lab Members
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8qztxveb9/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>) 
 
-<br/>
-
 Yuriko Harigaya, BCB PhD candidate
-
-<br/>
 
 Andy Lee, BCB PhD rotation student
 
-<br/>
-
 Wenwen Mei, Biostatistics PhD candidate
-
-<br/>
 
 Bella Qian, BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
-<br/>
-
 Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
-<br/>
-
 Xiaofei Wei, Biostatistics MS student
-
-<br/>
-
-
 
 ### Alumni
 
