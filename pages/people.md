@@ -14,7 +14,7 @@ Andy Lee, BCB PhD rotation student
 
 Wenwen Mei, Biostatistics PhD candidate
 
-Bella Qian, BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
+Bella Qian, Biostatistics BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
 Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
