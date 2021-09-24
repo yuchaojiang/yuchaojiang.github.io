@@ -14,7 +14,7 @@ Department of Statistics, The Wharton School, University of Pennsylvania <br/>
   <b>BIOS635</b>, <i>Introduction to Machine Learning</i>, Spring 2020, <b>Spring 2022</b> <br/>
 Department of Biostatistics, Gillings School of Global Public Health, UNC Chapel Hill <br/>
 [<a href="https://www.dropbox.com/s/o7bu8kg1lcv74tc/BIOS%20635_Intro%20Machine%20Learning_Syllabus_v1.pdf?dl=0" title="Syllabus BIOS635">Syllabus</a>, <a href="https://github.com/yuchaojiang/BIOS635/" title="Course Website">Website</a>,
-	<a href="https://www.dropbox.com/s/qgxn7j80wwpfl3s/selected_evaluation.pdf?dl=0" title="Selected Evaluation">Evaluation</a>]
+	<a href="https://www.dropbox.com/s/qgxn7j80wwpfl3s/selected_evaluation.pdf?dl=0" title="Evaluation 2020">Evaluation</a>]
 </div>
 <br/>
 <div class="cv">
