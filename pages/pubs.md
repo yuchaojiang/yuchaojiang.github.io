@@ -14,17 +14,17 @@ description: Yuchao Jiang's publications
 
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-**Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2021.
+**Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v1))
 
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
+
+Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
 
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
 Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, bbab189, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbab189/6279833))
 
 Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***Arteriosclerosis, Thrombosis, and Vascular Biology***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2020.12.07.414904v1))
-
-Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***bioRxiv***, 2021. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
 
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
 
