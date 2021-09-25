@@ -27,6 +27,8 @@ description: Yuchao Jiang's software
 **SCOPE**: A normalization and copy number estimation method for single-cell DNA
 sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](https://github.com/rujinwang/SCOPE), [vignettes](http://bioconductor.org/packages/devel/bioc/vignettes/SCOPE/inst/doc/SCOPE_vignette.html))
 
+**TRIPOD**: Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data ([GitHub](https://github.com/yharigaya/TRIPOD), [vignettes](http://htmlpreview.github.io/?https://github.com/yharigaya/TRIPOD/blob/main/vignettes/TRIPOD.html))
+
 ### Other Omics
 
 **Circadian rhythm**: [vignettes](https://htmlpreview.github.io/?https://github.com/wenwenm183/Circadian_Genes_Benchmark/blob/master/vignettes/Vignettes-of-Circadian-Paper.html)
