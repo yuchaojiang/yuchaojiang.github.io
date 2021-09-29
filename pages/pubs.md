@@ -1,12 +1,10 @@
 ---
 layout: page
-title: Publications
+title: Selected Lead-Authored Preprints and Publications
 description: Yuchao Jiang's publications
 ---
 
 Complete publication list can be found in [Google Scholar](https://scholar.google.com/citations?user=YA9f7QUAAAAJ&hl=en).
-
-### Selected Lead-Authored Preprints and Publications
 
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
