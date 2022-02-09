@@ -10,8 +10,6 @@ Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/re2aqb8
 
 Yuriko Harigaya, BCB PhD candidate
 
-Andy Lee, BCB PhD rotation student
-
 Wenwen Mei, Biostatistics PhD candidate
 
 Bella Qian, Biostatistics BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
