@@ -8,7 +8,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
 
-**Wang R**, **Jiang Y<sup>&sect;</sup>**. Copy number variation detection by single-cell DNA sequencing with SCOPE. ***Methods in Molecular Biology***, in press, 2022. (Invited book chapter in Variant Calling - Methods and Protocols)
+**Wang R**, **Jiang Y<sup>&sect;</sup>**. Copy number variation detection by single-cell DNA sequencing with SCOPE. ***Methods in Molecular Biology***, in press, 2022.
 
 **Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v1))
 
@@ -38,7 +38,7 @@ Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Dif
 
 Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](http://www.jbc.org/content/294/1/210.short))
 
-**Dong M**, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. (Invited book chapter in Computational Methods for Single-Cell Data Analysis; [link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
+**Dong M**, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. ***Methods in Molecular Biology***, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007%2F978-1-4939-9057-3_11))
 
 Li W, Liu W, Kakoki A, **Wang R**, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](http://www.jbc.org/content/294/15/5914))
 
