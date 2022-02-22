@@ -29,6 +29,8 @@ sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](h
 
 **TRIPOD**: Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data ([GitHub](https://github.com/yharigaya/TRIPOD), [vignettes](http://htmlpreview.github.io/?https://github.com/yharigaya/TRIPOD/blob/main/vignettes/TRIPOD.html))
 
+**EPIC**: Inferring relevant tissues and cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing ([GitHub](https://github.com/rujinwang/EPIC), [vignettes](http://htmlpreview.github.io/?https://github.com/rujinwang/EPIC/blob/master/vignettes/EPIC_vignette.html))
+
 ### DNA Damage, Repair, and Circadian Rhythm
 
 **Circadian rhythm**: [vignettes](https://htmlpreview.github.io/?https://github.com/wenwenm183/Circadian_Genes_Benchmark/blob/master/vignettes/Vignettes-of-Circadian-Paper.html)
