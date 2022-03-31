@@ -18,6 +18,8 @@ Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](ht
 
 Xiaofei Wei, Biostatistics MS student
 
+Yishu Zhang, Biostatistics MS student
+
 ### Alumni
 
 Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
