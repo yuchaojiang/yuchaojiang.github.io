@@ -8,7 +8,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v1))
 
-**Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, to appear, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
+**Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
 
 Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.07.14.452387v1))
 
