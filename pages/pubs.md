@@ -6,7 +6,7 @@ description: Yuchao Jiang's publications
 
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-**Jiang Y<sup>&sect;</sup>**, **Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v1))
+**Jiang Y<sup>&sect;</sup>**, **Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v2))
 
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
 
