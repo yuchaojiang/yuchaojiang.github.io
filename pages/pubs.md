@@ -16,6 +16,8 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
+**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***Briefings in Bioinformatics***, bbaa135, 2020. ([link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa135/5872170))
+
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
 **Urrutia E**, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, 35 (19), 3818-3820, 2019. ([link](https://academic.oup.com/bioinformatics/article/35/19/3818/5367832/))
