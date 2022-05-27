@@ -8,6 +8,8 @@ description: Jiang Lab Members
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrekyu9mdcbm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)
 
+Peter Guan, Biostatistics PhD student
+
 Wenwen Mei, Biostatistics PhD candidate
 
 Bella Qian, Biostatistics BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
