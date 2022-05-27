@@ -29,7 +29,7 @@ Rujin Wang (2018-2021), Biostatistics PhD student, joint with [Dr. Danyu Lin](ht
 Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
 
 Meichen Dong (2018-2019), Biostatistics PhD student, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
-Next position: Research Statistician Developer, [SAS](https://www.sas.com/)
+Next position: research statistician developer, [SAS](https://www.sas.com/)
 
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
