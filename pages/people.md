@@ -12,8 +12,6 @@ Peter Guan, Biostatistics PhD student
 
 Wenwen Mei, Biostatistics PhD candidate
 
-Bella Qian, Biostatistics BSPH student, joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
-
 Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 Xiaofei Wei, Biostatistics MS student
@@ -33,3 +31,6 @@ Next position: research statistician developer, [SAS](https://www.sas.com/)
 
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
+
+Bella Qian, Biostatistics BSPH student (highest honors), joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
+
