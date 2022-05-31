@@ -10,9 +10,9 @@ Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrek
 
 Peter Guan, Biostatistics PhD student
 
-Wenwen Mei, Biostatistics PhD candidate
+Wenwen Mei, Biostatistics PhD student
 
-Ann Marie Weideman, Biostatistics PhD candidate, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
+Ann Marie Weideman, Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 Xiaofei Wei, Biostatistics MS student
 
