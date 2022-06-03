@@ -12,13 +12,13 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
 
-**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
+**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 296, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
+
+**Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, 22 (1), 416-427, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
+
+**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***Briefings in Bioinformatics***, 22 (3), bbaa135, 2021. ([link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa135/5872170))
 
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
-
-**Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, bbz166, 2020. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
-
-**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***Briefings in Bioinformatics***, bbaa135, 2020. ([link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa135/5872170))
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
 
