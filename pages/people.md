@@ -8,7 +8,11 @@ description: Jiang Lab Members
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrekyu9mdcbm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)
 
+Kyle Albert, Biostatistics PhD student
+
 Peter Guan, Biostatistics PhD student
+
+Taeim Kwon, Biostatistics PhD student
 
 Wenwen Mei, Biostatistics PhD student
 
