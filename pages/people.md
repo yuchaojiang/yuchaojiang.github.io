@@ -8,7 +8,7 @@ description: Jiang Lab Members
 
 Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrekyu9mdcbm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)
 
-Kyle Albert, Biostatistics PhD student
+Kyle Albert, Biostatistics PhD student, joint with [Dr. Aziz Sancar](https://www.med.unc.edu/biochem/directory/asancar/)
 
 Peter Guan, Biostatistics PhD student
 
