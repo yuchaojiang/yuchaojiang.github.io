@@ -27,7 +27,7 @@ description: Yuchao Jiang's software
 **SCOPE**: A normalization and copy number estimation method for single-cell DNA
 sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](https://github.com/rujinwang/SCOPE), [vignettes](http://bioconductor.org/packages/devel/bioc/vignettes/SCOPE/inst/doc/SCOPE_vignette.html))
 
-**TRIPOD**: Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data ([GitHub](https://github.com/yharigaya/TRIPOD), [vignettes](http://htmlpreview.github.io/?https://github.com/yharigaya/TRIPOD/blob/main/vignettes/TRIPOD.html))
+**TRIPOD**: Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data ([GitHub](https://github.com/yuchaojiang/TRIPOD), [vignettes](http://htmlpreview.github.io/?https://github.com/yuchaojiang/TRIPOD/blob/main/vignettes/TRIPOD.html))
 
 **EPIC**: Inferring relevant tissues and cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing ([GitHub](https://github.com/rujinwang/EPIC), [vignettes](http://htmlpreview.github.io/?https://github.com/rujinwang/EPIC/blob/master/vignettes/EPIC_vignette.html))
 
