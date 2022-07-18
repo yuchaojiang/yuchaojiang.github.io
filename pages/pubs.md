@@ -8,9 +8,9 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 **For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=YA9f7QUAAAAJ&hl=en).**
 
-**Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v2))
+**Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, to appear, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v2))
 
-**Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, in press, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.06.09.447805v2))
+**Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, 18(6), e1010251, 2022. ([link](https://journals.plos.org/plosgenetics/article/authors?id=10.1371/journal.pgen.1010251))
 
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 296, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
