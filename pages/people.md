@@ -34,5 +34,5 @@ Next position: research statistician developer, [SAS](https://www.sas.com/)
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
 
-Bella Qian, Biostatistics BSPH student (highest honors), joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
+Bella Qian, Biostatistics BSPH student with the highest honors (2021-2022), joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
