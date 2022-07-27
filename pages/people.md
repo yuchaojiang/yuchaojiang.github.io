@@ -18,6 +18,8 @@ Wenwen Mei, Biostatistics PhD student
 
 Ann Marie Weideman, Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
+Guozheng Yang, Biostatistics MS student
+
 Yishu Zhang, Biostatistics MS student
 
 ### Alumni
