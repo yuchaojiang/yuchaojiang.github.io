@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Lab Members
-description: Jiang Lab Members
+description: Meet the team!
 ---
 
 **We are actively looking for graduate students (from Biostatistics and Bioinformatics & Computational Biology) and postdocs. Interested candidates should directly email Dr. Jiang with CVs.**
