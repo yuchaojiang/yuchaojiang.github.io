@@ -6,9 +6,9 @@ description: PI Info
 
 <div class="container">
     <div class="row-fluid">
-            Yuchao Jiang, Principal Investigator<br/>
-            Assistant Professor (tenure-track), <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
-            Assistant Professor (tenure-track), <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
+            Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrekyu9mdcbm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)<br/>        
+            Assistant Professor (tenure-track; 75%), <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
+            Assistant Professor (tenure-track; 25%), <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
             Member, <a href="https://unclineberger.org/">Lineberger Comprehensive Cancer Center</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
