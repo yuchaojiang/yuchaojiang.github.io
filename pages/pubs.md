@@ -4,9 +4,11 @@ title: Selected Publications
 description: Yuchao Jiang's publications
 ---
 
-Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
-
 **For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=YA9f7QUAAAAJ&hl=en).**
+
+\\
+
+Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
 **Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, to appear, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v2))
 
