@@ -6,8 +6,6 @@ description: Jiang Lab Members
 
 **We are actively looking for graduate students (from Biostatistics and Bioinformatics & Computational Biology) and postdocs. Interested candidates should directly email Dr. Jiang with CVs.**
 
-Yuchao Jiang, Principal Investigator (<a href="https://www.dropbox.com/s/puigrekyu9mdcbm/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)
-
 Kyle Albert, Biostatistics PhD student, joint with [Dr. Aziz Sancar](https://www.med.unc.edu/biochem/directory/asancar/)
 
 Peter Guan, Biostatistics PhD student
