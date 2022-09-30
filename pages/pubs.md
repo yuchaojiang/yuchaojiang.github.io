@@ -12,7 +12,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 
 Manickam A, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
-**Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, to appear, 2022. ([link](https://www.biorxiv.org/content/10.1101/2021.09.22.461437v2))
+**Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, 13 (9), 737-751, 2022. ([link](https://www.sciencedirect.com/science/article/abs/pii/S2405471222003489))
 
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, 18(6), e1010251, 2022. ([link](https://journals.plos.org/plosgenetics/article/authors?id=10.1371/journal.pgen.1010251))
 
