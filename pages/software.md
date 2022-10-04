@@ -12,7 +12,7 @@ description: Yuchao Jiang's software
 
 **Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN](https://CRAN.R-project.org/package=falconx))
 
-**Canopy**: Assessing Intra-Tumor Heterogeneity and Tracking Longitudinal and Spatial Clonal Evolutionary History by Next-Generation Sequencing ([CRAN](https://cran.r-project.org/web/packages/Canopy/index.html), [GitHub](https://github.com/yuchaojiang/Canopy), [vignettes](https://cran.rstudio.com/web/packages/Canopy/vignettes/Canopy_vignettes.pdf))
+**Canopy**: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([CRAN](https://cran.r-project.org/web/packages/Canopy/index.html), [GitHub](https://github.com/yuchaojiang/Canopy), [vignettes](https://cran.rstudio.com/web/packages/Canopy/vignettes/Canopy_vignettes.pdf))
 
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [notebook](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
 
