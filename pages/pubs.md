@@ -1,16 +1,16 @@
 ---
 layout: page
-title: Selected Lead-Authored Publications
+title: Selected Publications
 description: Yuchao Jiang's publications
 ---
 
 **For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=YA9f7QUAAAAJ&hl=en).**
 
-
-
 Lab members are highlighted in **boldface**; &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
 Manickam A, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
+
+**Guan PY**, **Lee AJ**, **Wang L**, Lin KZ, **Wen M**, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***bioRxiv***, 2022.
 
 **Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, 13 (9), 737-751, 2022. ([link](https://www.sciencedirect.com/science/article/abs/pii/S2405471222003489))
 
@@ -20,13 +20,9 @@ Manickam A, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo 
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, 22 (1), 416-427, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
-**Mei W<sup>&dagger;</sup>**, **Jiang Z<sup>&dagger;</sup>**, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide circadian rhythm detection methods: systematic evaluations and practical guidelines. ***Briefings in Bioinformatics***, 22 (3), bbaa135, 2021. ([link](https://academic.oup.com/bib/article/doi/10.1093/bib/bbaa135/5872170))
-
 **Wang R**, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
 
 Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Differential damage and repair of DNA-adducts induced by anti-cancer drug cisplatin across mouse organs. ***Nature Communications***, 10 (1), 309, 2019. ([link](https://www.nature.com/articles/s41467-019-08290-2))
-
-Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](https://www.sciencedirect.com/science/article/pii/S0021925820368915?via%3Dihub))
 
 **Urrutia E**, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, 35 (19), 3818-3820, 2019. ([link](https://academic.oup.com/bioinformatics/article/35/19/3818/5367832/))
 
