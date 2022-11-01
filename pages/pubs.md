@@ -16,6 +16,8 @@ Manickam A, Peterson JJ, **Harigaya Y**, Murdoch DM, Margolis DM, Oesterling A, 
 
 **Wang R**, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, 18(6), e1010251, 2022. ([link](https://journals.plos.org/plosgenetics/article/authors?id=10.1371/journal.pgen.1010251))
 
+**Dong M**, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, biom.13645, 2022. ([link](https://onlinelibrary.wiley.com/doi/10.1111/biom.13645))
+
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 296, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
 **Dong M**, Thennavan A, **Urrutia E**, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, 22 (1), 416-427, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
