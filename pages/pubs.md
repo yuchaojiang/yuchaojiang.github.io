@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Publications
+title: Selected Preprints/Publications
 description: Yuchao Jiang's publications
 ---
 
@@ -33,6 +33,8 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 * **Urrutia E**, Chen H, Zhou Z, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny. ***Bioinformatics***, 34 (12), 2126-2128, 2018. ([link](https://doi.org/10.1093/bioinformatics/bty057))
 
 * **Jiang Y**, Zhang NR<sup>&sect;</sup>, Li M<sup>&sect;</sup>. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
+
+* Chen H, **Jiang Y**, Maxwell KN, Nathanson KL, Zhang NR. Allele-specific copy number profiling using whole exome sequencing. ***Annals of Applied Statistics***, 11 (2), 1169-1192, 2017. ([link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-11/issue-2/Allele-specific-copy-number-estimation-by-whole-exome-sequencing/10.1214/17-AOAS1043.full))
 
 * **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
 
