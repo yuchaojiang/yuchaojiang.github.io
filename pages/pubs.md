@@ -13,7 +13,7 @@ Lab members are highlighted in **boldface**; &dagger; indicates co-first authors
 Manickam A, Peterson JJ, **Harigaya Y**, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
 
-**Guan PY**, **Lee JS**, **Wang L**, Lin KZ, **Wen M**, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***bioRxiv***, 2022.
+**Guan PY**, **Lee JS**, **Wang L**, Lin KZ, **Wen M**, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.11.04.515202v1))
 
 
 **Jiang Y<sup>&sect;</sup>**, **Harigaya Y**, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, 13 (9), 737-751, 2022. ([link](https://www.sciencedirect.com/science/article/abs/pii/S2405471222003489))
