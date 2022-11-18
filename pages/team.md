@@ -16,8 +16,6 @@ Wenwen Mei, Biostatistics PhD student
 
 Ann Marie Weideman, Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
-Guozheng Yang, Biostatistics MPH student
-
 Yishu Zhang, Biostatistics MS student
 
 ### Alumni
@@ -33,6 +31,4 @@ Next position: research statistician developer, [SAS](https://www.sas.com/)
 
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
-
-Bella Qian, Biostatistics BSPH student with the highest honors (2021-2022), joint with [Dr. Li Qian](https://uncliqian.web.unc.edu/)
 
