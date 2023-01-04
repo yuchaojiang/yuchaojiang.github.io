@@ -22,10 +22,11 @@ description: Yuchao Jiang's software
 
 **Destin**: Toolkit for single-cell analysis of chromatin accessibility ([GitHub](https://github.com/urrutiag/destin), [notebook1](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinBuenrostroMouse.html), [notebook2](https://rawgit.com/urrutiag/destin/master/package/vignettes/destinPreisslP56.html))
 
+**Destin2**: Integrative and cross-modality analysis of single-cell chromatin accessibility data ([GitHub](https://github.com/yuchaojiang/Destin2), [notebook1](http://htmlpreview.github.io/?https://github.com/yuchaojiang/Destin2/blob/main/package/vignettes/destin2vignette_pbmc.html), [notebook2](http://htmlpreview.github.io/?https://github.com/yuchaojiang/Destin2/blob/main/package/vignettes/destin2vignette_brain.html))
+
 **SCDC**: Deconvolution of bulk gene expression by single-cell RNA sequencing data ([GitHub](https://meichendong.github.io/SCDC), [notebook](https://meichendong.github.io/SCDC/articles/SCDC.html))
 
-**SCOPE**: A normalization and copy number estimation method for single-cell DNA
-sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](https://github.com/rujinwang/SCOPE), [vignettes](http://bioconductor.org/packages/devel/bioc/vignettes/SCOPE/inst/doc/SCOPE_vignette.html))
+**SCOPE**: A normalization and copy number estimation method for single-cell DNA sequencing ([Bioconductor](https://bioconductor.org/packages/SCOPE/), [GitHub](https://github.com/rujinwang/SCOPE), [vignettes](http://bioconductor.org/packages/devel/bioc/vignettes/SCOPE/inst/doc/SCOPE_vignette.html))
 
 **TRIPOD**: Nonparametric interrogation of transcriptional regulation in single-cell RNA and chromatin accessibility multiomic data ([GitHub](https://github.com/yuchaojiang/TRIPOD), [vignettes](http://htmlpreview.github.io/?https://github.com/yuchaojiang/TRIPOD/blob/main/vignettes/TRIPOD.html))
 
