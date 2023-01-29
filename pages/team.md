@@ -8,15 +8,11 @@ description: Lab members
 
 Kyle Albert, Biostatistics PhD student, joint with [Dr. Aziz Sancar](https://www.med.unc.edu/biochem/directory/asancar/)
 
-Peter Guan, Biostatistics PhD student
-
 Taeim Kwon, Biostatistics PhD student
 
 Wenwen Mei, Biostatistics PhD student
 
 Ann Marie Weideman, Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
-
-Yishu Zhang, Biostatistics MS student
 
 ### Alumni
 
