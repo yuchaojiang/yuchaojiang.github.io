@@ -13,22 +13,13 @@ description: Yuchao Jiang's publications
 Manickam A, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
 
-Guan PY, Lee JS, Wang L, Lin KZ, Wen M, Chen L, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***bioRxiv***, 2022. ([link](https://www.biorxiv.org/content/10.1101/2022.11.04.515202v1))
-
-
 **Jiang Y<sup>&sect;</sup>**, Harigaya Y, Zhang Z, Zhang H, Zang C, Zhang NR<sup>&sect;</sup>. Nonparametric single-cell multiomic characterization of three-way relationships between transcription factors, target genes, and chromatin accessibilities. ***Cell Systems***, 13 (9), 737-751, 2022. ([link](https://www.sciencedirect.com/science/article/abs/pii/S2405471222003489))
 
 
 Wang R, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, 18(6), e1010251, 2022. ([link](https://journals.plos.org/plosgenetics/article/authors?id=10.1371/journal.pgen.1010251))
 
 
-Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, biom.13645, 2022. ([link](https://onlinelibrary.wiley.com/doi/10.1111/biom.13645))
-
-
 Dong M, Thennavan A, Urrutia E, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, 22 (1), 416-427, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
-
-
-**Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 296, 100581, 2021. ([link](https://www.sciencedirect.com/science/article/pii/S0021925821003616?via%3Dihub))
 
 
 Wang R, Lin D, **Jiang Y<sup>&sect;</sup>**. SCOPE: a normalization and copy number estimation method for single-cell DNA sequencing. ***Cell Systems***, 10 (5), 445-452, 2020. ([link](https://doi.org/10.1016/j.cels.2020.03.005))
@@ -47,9 +38,6 @@ Urrutia E, Chen H, Zhou Z, Zhang NR<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>
 
 
 **Jiang Y**, Zhang NR<sup>&sect;</sup>, Li M<sup>&sect;</sup>. SCALE: modeling allele-specific gene expression by single-cell RNA sequencing. ***Genome Biology***, 18 (1), 74, 2017. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-017-1200-8))
-
-
-Chen H, **Jiang Y**, Maxwell KN, Nathanson KL, Zhang NR. Allele-specific copy number profiling using whole exome sequencing. ***Annals of Applied Statistics***, 11 (2), 1169-1192, 2017. ([link](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-11/issue-2/Allele-specific-copy-number-estimation-by-whole-exome-sequencing/10.1214/17-AOAS1043.full))
 
 
 **Jiang Y**, Qiu Y, Minn AJ, Zhang NR. Assessing tumor heterogeneity and tracking longitudinal and spatial clonal evolution by next-generation sequencing. ***Proceedings of the National Academy of Sciences***, 113 (37), E5528-E5537, 2016. ([link](http://www.pnas.org/content/113/37/E5528), [news](http://www.uphs.upenn.edu/news/News_Releases/2016/09/jiang/))
