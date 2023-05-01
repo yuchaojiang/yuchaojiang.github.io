@@ -10,6 +10,7 @@ description: PI Info
             Assistant Professor (tenure-track; primary), <a href="http://sph.unc.edu/bios/biostatistics/">Department of Biostatistics, Gillings School of Global Public Health</a><br/>
             Assistant Professor (tenure-track; joint), <a href="http://www.med.unc.edu/genetics/">Department of Genetics, School of Medicine</a><br/>
             Member, <a href="https://unclineberger.org/">Lineberger Comprehensive Cancer Center</a><br/>
+            Core Faculty, <a href="https://bcb.unc.edu/">Curriculum in Bioinformatics and Computational Biology, School of Medicine</a><br/>
             University of North Carolina, Chapel Hill <br/><br/>
     </div>
 </div>
