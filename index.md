@@ -19,3 +19,5 @@ The Jiang Lab’s primary research interests lie in statistical modeling and met
             <b>Twitter</b>: <a href="https://twitter.com/yuchaojiang">@yuchaojiang</a><br/>
     </div>
 </div>
+
+[slides](https://www.dropbox.com/scl/fi/r2putikyw2jl6qplwud1l/BIRS_Yuchao_Jiang.pptx?dl=0&rlkey=57f2cp6y4q1lagf7q8qycbfiy)
