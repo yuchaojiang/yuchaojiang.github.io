@@ -13,7 +13,7 @@ title: Yuchao Jiang
 
 ###  Background
 
-I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as an Assistant Professor of Biostatistics and Genetics at UNC Chapel Hill in 2017, and moved to Texas A&M University and became Associate Professor of Statistics and Biology in 2023.
+I obtained my Ph.D. in Genomics and Computational Biology from the University of Pennsylvania in 2017 working with [Dr. Nancy R. Zhang](https://statistics.wharton.upenn.edu/profile/nzh/) (advisor) and [Dr. Mingyao Li](http://www.med.upenn.edu/apps/faculty/index.php/g275/p8122973). I obtained my M.A. in Statistics from the University of Pennsylvania in 2014 and my B.S. from Cornell University in 2012. I started as an Assistant Professor of <a href="https://sph.unc.edu/bios/biostatistics/">Biostatistics</a> (primary) and <a href="https://www.med.unc.edu/genetics/">Genetics</a> at UNC Chapel Hill in 2017, and moved to Texas A&M University and became Associate Professor of <a href="https://stat.tamu.edu/">Statistics</a> (primary) and <a href="https://www.bio.tamu.edu/">Biology</a> in 2023.
 
 ### Research
 
