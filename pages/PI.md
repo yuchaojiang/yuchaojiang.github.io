@@ -6,6 +6,7 @@ description: PI Info
 
 <div class="container">
     <div class="row-fluid">
+            Yuchao Jiang (<a href="https://www.dropbox.com/s/kcdyt726sudhw3a/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)<br/>  
             Associate Professor, <a href="https://stat.tamu.edu/">Department of Statistics</a>, College of Arts and Sciences<br/>
             Associate Professor, <a href="https://www.bio.tamu.edu/">Department of Biology</a>, College of Arts and Sciences<br/>
             Texas A&M University <br/><br/>
