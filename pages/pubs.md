@@ -36,6 +36,8 @@ Yimit A, Adebali O, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Dif
 
 Urrutia E, Chen L, Zhou H, **Jiang Y<sup>&sect;</sup>**. Destin: toolkit for single-cell analysis of chromatin accessibility. ***Bioinformatics***, 35 (19), 3818-3820, 2019. ([link](https://academic.oup.com/bioinformatics/article/35/19/3818/5367832/))
 
+Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<sup>&sect;</sup>. Single nucleotide resolution analysis of nucleotide excision repair of ribosomal DNA in humans and mice. ***Journal of Biological Chemistry***, 294 (1), 210-217, 2019. ([link](https://www.jbc.org/article/S0021-9258(20)36891-5/fulltext))
+
 
 **Jiang Y<sup>&sect;</sup>**, Wang R, Urrutia E, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
 
