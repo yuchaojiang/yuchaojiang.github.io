@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Selected Preprints/Publications
+title: Selected Preprints/Publications as Lead Authors
 description: Yuchao Jiang's publications
 ---
 
