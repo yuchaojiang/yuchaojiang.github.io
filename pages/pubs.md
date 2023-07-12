@@ -10,7 +10,7 @@ description: Yuchao Jiang's publications
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
 
-Manickam A, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
+Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
 
 Guan PY, Lee JS, Wang L, Lin KZ, Wen M, Chen L, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***Frontiers in Genetics***, 14:1089936, 2023. ([link](https://www.frontiersin.org/articles/10.3389/fgene.2023.1089936/full))
