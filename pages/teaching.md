@@ -32,4 +32,3 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
 </div>
 <br/>
-</div>
