@@ -8,8 +8,6 @@ description: Lab members
 
 Chun Yip Tong, TAMU Biology PhD student
 
-Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
-
 Ann Marie Weideman, UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 ### Alumni
