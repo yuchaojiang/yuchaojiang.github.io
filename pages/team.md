@@ -6,6 +6,8 @@ description: Lab members
 
 **We are actively looking for graduate students (from Statistics, Biology, Genetics & Genomics, and Biomedical Engineering) and postdocs. Interested candidates should directly email Dr. Jiang with CVs.**
 
+### Lab Members
+
 Chun Yip Tong, TAMU Biology PhD student
 
 Ann Marie Weideman, UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
