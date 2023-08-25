@@ -9,6 +9,9 @@ description: PI Info
             Yuchao Jiang (<a href="https://www.dropbox.com/s/kcdyt726sudhw3a/CV_Yuchao_Jiang.pdf?dl=0" title="Download CV as PDF">Download CV</a>)<br/>  
             Associate Professor, <a href="https://stat.tamu.edu/">Department of Statistics</a>, College of Arts and Sciences<br/>
             Associate Professor, <a href="https://www.bio.tamu.edu/">Department of Biology</a>, College of Arts and Sciences<br/>
+            Co-Director, <a href="https://statbio.stat.tamu.edu/">Center for Statistical Bioinformatics</a><br/>
+            Faculty, <a href="https://genetics.tamu.edu/">Interdisciplinary Graduate Program in Genetics and Genomics</a><br/>
+            Affiliate Member, <a href="https://clocks.tamu.edu/">Center for Biological Clocks Research</a><br/>
             Texas A&M University <br/><br/>
     </div>
 </div>
