@@ -6,7 +6,7 @@ description: Lab members
 
 **We are actively looking for graduate students (from Statistics, Biology, Genetics & Genomics, and Biomedical Engineering) and postdocs. Interested candidates should directly email Dr. Jiang with CVs.**
 
-### Lab Members
+### Current Lab Members
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
 
