@@ -26,4 +26,9 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 	<a href="https://github.com/yuchaojiang/BIOSBCB785" title="Course Website">Website</a>, 
 	<a href="https://www.dropbox.com/s/5y4zquudxclt842/selected_evaluations_785.pdf?dl=0" title="Evaluation">Evaluation</a>]
 <br/>
+<div class="cv">
+  <b>STAT446/646</b>, <i>Statistical Bioinformatics</i>, Spring 2024 <br/> 
+Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
+</div>
+<br/>
 </div>
