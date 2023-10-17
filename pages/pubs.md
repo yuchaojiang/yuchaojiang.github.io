@@ -8,7 +8,7 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Kose C, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide transcription and repair maps of Caenorhabditis elegans. ***bioRxiv***, accepted, 2023. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v1))
+Kose C, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide transcription and repair maps of Caenorhabditis elegans. ***bioRxiv***, 2023. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v1))
 
 Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, accepted, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
