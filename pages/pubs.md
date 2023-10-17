@@ -6,11 +6,11 @@ description: Yuchao Jiang's publications
 
 **For a complete list, see my [Google Scholar](https://scholar.google.com/citations?user=cVLhgc4AAAAJ&hl=en).**
 
-
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
+Kose C, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide transcription and repair maps of Caenorhabditis elegans. ***bioRxiv***, accepted, 2023. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v1))
 
-Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***bioRxiv***, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
+Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, accepted, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
 
 
 Mann B, Zhang X, Bell N, Adefolaju A, Thang M, Dasari R, Valdivia A, Quinsey C, Rauf Y, Cassidy N, Yang Y, Viziri C, Rego S, **Jiang Y**, Dunn D, Floyd S, Baldwin A, Hingtgen S, Satterlee A. A normalized ex vivo platform for functional precision diagnosis of patient brain tumor tissue. ***Cell Reports Medicine***, 4 (6), 101042, 2023. ([link](https://doi.org/10.1016/j.xcrm.2023.101042))
