@@ -12,7 +12,9 @@ Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.
 
 Yufan Li, TAMU Statistics BS/MS student
 
-Chun Yip Tong, TAMU Biology PhD student
+Jay Suh, TAMU Statistics BS student ([GitHub](https://galopyz.github.io/delicious-nbdev/blog/))
+
+Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
 Ann Marie Weideman, UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
