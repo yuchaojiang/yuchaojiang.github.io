@@ -16,6 +16,8 @@ description: Yuchao Jiang's software
 
 **MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [vignettes](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
 
+**Canopy2**: Tumor phylogeny inference using bulk DNA and single-cell RNA sequencing ([GitHub](https://github.com/annweideman/canopy2/))
+
 ### Single-Cell Omics
 
 **SCALE**: Modeling allele-specific gene expression by single-cell RNA sequencing ([GitHub](https://github.com/yuchaojiang/SCALE), [vignettes](https://github.com/yuchaojiang/SCALE/blob/master/demo/SCALE_vignettes.pdf))
