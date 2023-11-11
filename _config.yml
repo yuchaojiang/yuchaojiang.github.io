@@ -8,10 +8,10 @@ highlighter: rouge
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jiang Lab @ UNC
+title : Jiang Lab @ TAMU
 author :
   name : Yuchao Jiang
-  email : yuchaoj@email.unc.edu
+  email : yuchaojiang@tamu.edu
   github : yuchaojiang
   twitter : yuchaojiang
   feedburner : nil
