@@ -11,8 +11,8 @@ description: PI Info
             Associate Professor, <a href="https://www.bio.tamu.edu/">Department of Biology</a>, College of Arts and Sciences<br/>
             Courtesy Affiliated Faculty, <a href="https://engineering.tamu.edu/biomedical/">Department of Biomedical Engineering</a>, College of Engineering<br/>
             Co-Director, <a href="https://statbio.stat.tamu.edu/">Center for Statistical Bioinformatics</a><br/>
-            Faculty, <a href="https://genetics.tamu.edu/">Interdisciplinary Graduate Program in Genetics and Genomics</a><br/>
             Affiliate Member, <a href="https://clocks.tamu.edu/">Center for Biological Clocks Research</a><br/>
+            Faculty, <a href="https://genetics.tamu.edu/">Interdisciplinary Graduate Program in Genetics and Genomics</a><br/>
             Texas A&M University <br/><br/>
     </div>
 </div>
