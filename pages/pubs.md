@@ -32,6 +32,8 @@ Wang R, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring re
 
 Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, biom.13645, 2022. ([link](https://onlinelibrary.wiley.com/doi/10.1111/biom.13645))
 
+Wang R, **Jiang Y<sup>&sect;</sup>**. Copy number variation detection by single-cell DNA sequencing with SCOPE. Methods in Molecular Biology, 2493, 279-288, 2022. ([link](https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_18))
+
 
 Dong M, Thennavan A, Urrutia E, Li Y, Perou CM, Zou F<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. SCDC: bulk gene expression deconvolution by multiple single-cell RNA sequencing references. ***Briefings in Bioinformatics***, 22 (1), 416-427, 2021. ([link](https://academic.oup.com/bib/advance-article/doi/10.1093/bib/bbz166/5699815))
 
@@ -67,6 +69,9 @@ Yang Y, Hu J, Selby CP, Li W, Yimit A, **Jiang Y<sup>&sect;</sup>**, Sancar A<su
 
 
 Li W, Liu W, Kakoki A, Wang R, Adebali O, **Jiang Y**, Sancar A. Nucleotide excision repair capacity increases during differentiation of human embryonic carcinoma cells into neurons and muscle cells. ***Journal of Biological Chemistry***, 294 (15), 5914-5922, 2019. ([link](https://www.jbc.org/article/S0021-9258(20)36664-3/fulltext))
+
+
+Dong M, **Jiang Y<sup>&sect;</sup>**. Single-cell allele-specific gene expression analysis. Methods in Molecular Biology, 1935, 155-174, 2019. ([link](https://link.springer.com/protocol/10.1007/978-1-4939-9057-3_11))
 
 
 **Jiang Y<sup>&sect;</sup>**, Wang R, Urrutia E, Anastopoulos IN, Nathanson KL, Zhang NR<sup>&sect;</sup>. CODEX2: full-spectrum copy number variation detection by high-throughput DNA sequencing. ***Genome Biology***, 19 (1), 202, 2018. ([link](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-018-1578-y))
