@@ -30,7 +30,6 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 <div class="cv">
   <b>STAT446/646</b>, <i>Statistical Bioinformatics</i>, Spring 2024 <br/> 
 Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
-[<a href="https://www.dropbox.com/scl/fi/zg7h9bpu035uhy9g46cj2/syllabus.pdf?rlkey=5eoa6ahsa3kg26w0vhzzvk3ot&dl=0" title="Syllabus">Syllabus</a>,
-	<a href="https://github.com/yuchaojiang/STAT446_646" title="Course Website">Website</a>]
+[<a href="https://www.dropbox.com/scl/fi/zg7h9bpu035uhy9g46cj2/syllabus.pdf?rlkey=5eoa6ahsa3kg26w0vhzzvk3ot&dl=0" title="Syllabus">Syllabus</a>]
 </div>
 <br/>
