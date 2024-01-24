@@ -12,7 +12,7 @@ Kose C, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide tra
 
 Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2023. ([link](https://arxiv.org/abs/2310.20460))
 
-Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, accepted, 2023. ([link](https://www.biorxiv.org/content/10.1101/2022.07.26.501558v1))
+Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
 
 
 Mann B, Zhang X, Bell N, Adefolaju A, Thang M, Dasari R, Valdivia A, Quinsey C, Rauf Y, Cassidy N, Yang Y, Viziri C, Rego S, **Jiang Y**, Dunn D, Floyd S, Baldwin A, Hingtgen S, Satterlee A. A normalized ex vivo platform for functional precision diagnosis of patient brain tumor tissue. ***Cell Reports Medicine***, 4 (6), 101042, 2023. ([link](https://doi.org/10.1016/j.xcrm.2023.101042))
