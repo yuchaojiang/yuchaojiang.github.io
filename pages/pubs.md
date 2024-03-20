@@ -8,7 +8,7 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. bioRxiv, 2024. ([link](https://www.biorxiv.org/content/10.1101/2024.03.18.585595v1))
+Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***bioRxiv***, 2024. ([link](https://www.biorxiv.org/content/10.1101/2024.03.18.585595v1))
 
 Kose C, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide transcription and repair maps of Caenorhabditis elegans. ***bioRxiv***, 2023. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v1))
 
