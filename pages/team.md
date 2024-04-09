@@ -8,13 +8,9 @@ description: Lab members
 
 ### Current Lab Members
 
-Stephen Jaeyoung Cho, TAMU Statistics MS student
-
 Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.stat.tamu.edu/~yni/) and [Dr. Irina Gaynanova](https://irinagain.github.io/)
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
-
-Jae-Young Heo, TAMU Statistics MS student
 
 Yufan Li, TAMU Statistics BS/MS student
 
