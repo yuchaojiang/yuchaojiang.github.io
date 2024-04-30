@@ -12,13 +12,9 @@ Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
 
-Yufan Li, TAMU Statistics BS/MS student
-
 Jay Suh, TAMU Statistics BS student ([GitHub](https://galopyz.github.io/delicious-nbdev/blog/))
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
-
-Ann Marie Weideman, UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
 
 ### Alumni
 
@@ -33,3 +29,10 @@ Next position: research statistician developer, [SAS](https://www.sas.com/)
 
 Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
 Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
+
+Yufan Li (2023-2024), TAMU Statistics BS student
+Next position: MS student, [Michigan Applied Statistics](https://lsa.umich.edu/stats/masters_students/mastersprograms/applied-stats-masters-program.html)
+
+Ann Marie Weideman (2022-2024), UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/)
+Next position: research advisor statistician, [Eli Lilly](https://www.lilly.com/)
+
