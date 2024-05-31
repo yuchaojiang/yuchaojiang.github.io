@@ -3,7 +3,7 @@ layout: page
 title: Jiang Lab of Statistical Genomics
 ---
 
-The Jiang Lab’s primary research interests lie in statistical modeling and method development in genetics and genomics, with application to data from large-scale cohort studies of human health and disease. We collaborate with biologists and clinicians to address statistical and computational challenges presented by new cutting-edge technologies and provide data-driven statistical methods to biomedical researchers for better data analysis and experimental design. Our particular focus is on profiling structural variants, assessing intratumor heterogeneity, interrogating transcription regulation, detecting circadian rhythmicity, and deciphering cellular heterogeneity by single-cell omics approaches. Our research is currently supported by R35 GM138342 from the National Institute of General Medical Sciences.
+The Jiang Lab’s primary research interests lie in statistical modeling and method development in genetics and genomics, with application to data from large-scale cohort studies of human health and disease. We collaborate with biologists and clinicians to address statistical and computational challenges presented by new cutting-edge technologies and provide data-driven statistical methods to biomedical researchers for better data analysis and experimental design. Our particular focus is on profiling structural variants, assessing intratumor heterogeneity, interrogating transcriptional regulation, detecting circadian rhythmicity, and deciphering cellular heterogeneity by single-cell omics approaches. Our research is currently supported by R35 GM138342 from the National Institute of General Medical Sciences.
 
 <div class="container">
     <div class="row-fluid">
