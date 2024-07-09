@@ -10,9 +10,9 @@ description: Yuchao Jiang's publications
 
 Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***bioRxiv***, 2024. ([link](https://www.biorxiv.org/content/10.1101/2024.03.18.585595v1))
 
-Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***bioRxiv***, 2024. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v2))
+Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***PLOS Genetics***, to appear, 2024. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v2))
 
-Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2023. ([link](https://arxiv.org/abs/2310.20460))
+Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2024. ([link](https://arxiv.org/abs/2310.20460))
 
 Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
 
