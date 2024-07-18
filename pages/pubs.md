@@ -10,17 +10,20 @@ description: Yuchao Jiang's publications
 
 Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***bioRxiv***, 2024. ([link](https://www.biorxiv.org/content/10.1101/2024.03.18.585595v1))
 
-Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***PLOS Genetics***, to appear, 2024. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v2))
-
 Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2024. ([link](https://arxiv.org/abs/2310.20460))
 
-Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
+Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***PLOS Genetics***, to appear, 2024. ([link](https://www.biorxiv.org/content/10.1101/2023.10.12.562083v2))
+
+Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, 22 (1), qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
 
 
 Mann B, Zhang X, Bell N, Adefolaju A, Thang M, Dasari R, Valdivia A, Quinsey C, Rauf Y, Cassidy N, Yang Y, Viziri C, Rego S, **Jiang Y**, Dunn D, Floyd S, Baldwin A, Hingtgen S, Satterlee A. A normalized ex vivo platform for functional precision diagnosis of patient brain tumor tissue. ***Cell Reports Medicine***, 4 (6), 101042, 2023. ([link](https://doi.org/10.1016/j.xcrm.2023.101042))
 
 
-Agarwal A, Zhao F, **Jiang Y**, Chen L. TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertion and deletion. ***Bioinformatics***, btad060, 2023. ([link](https://academic.oup.com/bioinformatics/article/39/2/btad060/7008323))
+Agarwal A, Zhao F, **Jiang Y**, Chen L. TIVAN-indel: A computational framework for annotating and predicting noncoding regulatory small insertion and deletion. ***Bioinformatics***, 39 (2), btad060, 2023. ([link](https://academic.oup.com/bioinformatics/article/39/2/btad060/7008323))
+
+
+Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, 79 (2), 915-925, 2023. ([link](https://onlinelibrary.wiley.com/doi/10.1111/biom.13645))
 
 
 Guan PY, Lee JS, Wang L, Lin KZ, Wen M, Chen L, **Jiang Y<sup>&sect;</sup>**. Destin2: integrative and cross-modality analysis of single-cell chromatin accessibility data. ***Frontiers in Genetics***, 14:1089936, 2023. ([link](https://www.frontiersin.org/articles/10.3389/fgene.2023.1089936/full))
@@ -31,8 +34,6 @@ Guan PY, Lee JS, Wang L, Lin KZ, Wen M, Chen L, **Jiang Y<sup>&sect;</sup>**. De
 
 Wang R, Lin D<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. EPIC: inferring relevant cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing. ***PLOS Genetics***, 18(6), e1010251, 2022. ([link](https://journals.plos.org/plosgenetics/article/authors?id=10.1371/journal.pgen.1010251))
 
-
-Dong M, He Y, **Jiang Y**, Zou F. Joint gene network construction by single-cell RNA sequencing data. ***Biometrics***, biom.13645, 2022. ([link](https://onlinelibrary.wiley.com/doi/10.1111/biom.13645))
 
 Wang R, **Jiang Y<sup>&sect;</sup>**. Copy number variation detection by single-cell DNA sequencing with SCOPE. ***Methods in Molecular Biology***, 2493, 279-288, 2022. ([link](https://link.springer.com/protocol/10.1007/978-1-0716-2293-3_18))
 
@@ -49,7 +50,7 @@ Mei W, Jiang Z, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;<
 Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***Arteriosclerosis, Thrombosis, and Vascular Biology***, 41 (10), 2575-2584, 2021. ([link](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316797))
 
 
-Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, bbab189, 2021. ([link](https://academic.oup.com/bib/article-abstract/22/6/bbab189/6279833?redirectedFrom=fulltext))
+Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, 22 (6), bbab189, 2021. ([link](https://academic.oup.com/bib/article-abstract/22/6/bbab189/6279833?redirectedFrom=fulltext))
 
 
 Wang Y, Bhattacharya T, **Jiang Y**, Qin X, Wang Y, Liu Y, Saykin AJ, Chen L. A novel deep learning method for predictive modeling of microbiome data. ***Briefings in Bioinformatics***, 22 (3), bbaa073, 2021. ([link](https://academic.oup.com/bib/article/22/3/bbaa073/5835556))
