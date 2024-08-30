@@ -11,6 +11,8 @@ The Jiang Lab’s primary research interests lie in statistical modeling and met
             <b>Office</b>:   <a href="https://goo.gl/maps/mgij72AP1XM583dJ9">Blocker</a> 459E, 3143 TAMU, College Station, 77843-3143<br/>
             <b>Phone</b>: 979-845-3141<br/>
             <b>GitHub</b>: <a href="https://github.com/yuchaojiang">https://github.com/yuchaojiang</a><br/>
+            <b>Official Pages</b>: <a href="https://artsci.tamu.edu/statistics/contact/profiles/yuchao-jiang.html">Statistics</a>, <a href="https://www.bio.tamu.edu/faculty-page-yuchao-jiang/">Biology</a>, <a href="https://engineering.tamu.edu/biomedical/profiles/jiang-yuchao.html">Biomedical Engineering</a><br/>
             <b>Twitter</b>: <a href="https://twitter.com/yuchaojiang">@yuchaojiang</a><br/>
+            <b>GitHub</b>: <a href="https://github.com/yuchaojiang">https://github.com/yuchaojiang</a><br/>
     </div>
 </div>
