@@ -14,6 +14,8 @@ Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.
 
 Jae Young Heo, TAMU Statistics MS student, joint with [Dr. Wanhe Li](https://wanheli2022.wixsite.com/wanheli)
 
+Changhao Li, Postdoctoral Research Associate
+
 Jay Suh, TAMU Statistics BS student ([GitHub](https://galopyz.github.io/delicious-nbdev/blog/))
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
