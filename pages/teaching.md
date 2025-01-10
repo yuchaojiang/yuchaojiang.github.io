@@ -32,11 +32,4 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
 [<a href="https://www.dropbox.com/scl/fi/zg7h9bpu035uhy9g46cj2/syllabus.pdf?rlkey=5eoa6ahsa3kg26w0vhzzvk3ot&dl=0" title="Syllabus">Syllabus</a>,
 	<a href="https://www.dropbox.com/scl/fi/xms8m6267witracs4crjd/evaluation.pdf?rlkey=cysvylhls37a9qrs116saw86s&st=p0tcjl0u&dl=0" title="Evaluation">Evaluation</a>]
-</div>
-<br/>
-<div class="cv">
-  <b>BIOL689</b>, <i>Special Topics in Single-Cell and Spatial Omics</i>, Spring 2025 <br/> 
-Department of Biology, College of Arts and Sciences, Texas A&M University <br/>
-[<a href="https://www.dropbox.com/scl/fi/kic4j23kqk98fuo67nc5n/Syllabus_BIOL_689_Yuchao_Jiang.pdf?rlkey=is6ph85i22pyld25qmrg0d7e0&dl=0" title="Syllabus">Syllabus</a>]
-</div>
 <br/>
