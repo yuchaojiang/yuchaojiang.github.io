@@ -8,9 +8,9 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2024. ([link](https://arxiv.org/abs/2310.20460v2))
+Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***arXiv***, 2025. ([link](https://arxiv.org/abs/2310.20460v2))
 
-Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***Statistics in Biosciences***, to appear, 2024. ([link](https://www.biorxiv.org/content/10.1101/2024.03.18.585595v1))
+Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***Statistics in Biosciences***, 1-43, 2025. ([link](https://link.springer.com/article/10.1007/s12561-024-09466-1))
 
 Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***PLOS Genetics***, 20 (7), e1011365, 2024. ([link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011365))
 
