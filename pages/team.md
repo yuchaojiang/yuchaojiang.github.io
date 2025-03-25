@@ -26,7 +26,7 @@ Meichen Dong (2018-2019), UNC Biostatistics PhD student, joint with [Dr. Fei Zou
 
 Yuriko Harigaya (2020-2022), UNC Bioinformatics and Computational Biology PhD student <br/>
 
-Wenwen Mei (2021-2023), UNC Biostatistics PhD student <br/>
+Wenwen Mei (2020-2023), UNC Biostatistics PhD student <br/>
 
 Peter Guan (2022-2023), UNC Biostatistics PhD student <br/>
 
