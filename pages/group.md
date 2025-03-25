@@ -12,7 +12,7 @@ Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
 
-Changhao Li, TAMU Postdoctoral Research Associate
+Changhao Li, TAMU Statistics Postdoctoral Research Associate
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
