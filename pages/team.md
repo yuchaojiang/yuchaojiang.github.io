@@ -12,28 +12,24 @@ Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
 
-Jae Young Heo, TAMU Statistics MS student, joint with [Dr. Wanhe Li](https://wanheli2022.wixsite.com/wanheli)
-
-Changhao Li, Postdoctoral Research Associate
-
-Jay Suh, TAMU Statistics BS student ([GitHub](https://galopyz.github.io/delicious-nbdev/blog/))
+Changhao Li, TAMU Postdoctoral Research Associate
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
-### Alumni
+### Past Members
 
-Gene Urrutia (2017-2018), Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
-Next position: senior data scientist, [Hill-Rom](https://www.hill-rom.com/usa/)
+Gene Urrutia (2017-2018), UNC Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 
-Rujin Wang (2018-2021), Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
-Next position: senior statistical geneticist, [Regeneron Pharmaceuticals](https://www.regeneron.com/)
+Rujin Wang (2018-2021), UNC Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 
-Meichen Dong (2018-2019), Biostatistics PhD student, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
-Next position: research statistician developer, [SAS](https://www.sas.com/)
+Meichen Dong (2018-2019), UNC Biostatistics PhD student, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
 
-Zhiwen (Owen) Jiang (2019-2020), Biostatistics MS student <br/>
-Next position: PhD student, [UNC Biostatistics](https://sph.unc.edu/bios/biostatistics/)
+Zhiwen (Owen) Jiang (2019-2020), UNC Biostatistics MS student <br/>
+
+Yuriko Harigaya (2020-2022), UNC Bioinformatics and Computational Biology PhD student <br/>
+
+Wenwen Mei (2021-2023), Biostatistics PhD student <br/>
+
+Peter Guan (2022-2023), Biostatistics PhD student <br/>
 
 Ann Marie Weideman (2022-2024), UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) <br/>
-Next position: research advisor statistician, [Eli Lilly](https://www.lilly.com/)
-
