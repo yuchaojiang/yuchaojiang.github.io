@@ -18,18 +18,16 @@ Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
 ### Past Members
 
-Gene Urrutia (2017-2018), UNC Biostatistics postdoctoral research fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
+Gene Urrutia (2017-2018), UNC Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 
 Rujin Wang (2018-2021), UNC Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 
 Meichen Dong (2018-2019), UNC Biostatistics PhD student, joint with [Dr. Fei Zou](https://sph.unc.edu/adv_profile/fei-zou-phd/) <br/>
 
-Zhiwen (Owen) Jiang (2019-2020), UNC Biostatistics MS student <br/>
-
 Yuriko Harigaya (2020-2022), UNC Bioinformatics and Computational Biology PhD student <br/>
 
-Wenwen Mei (2021-2023), Biostatistics PhD student <br/>
+Wenwen Mei (2021-2023), UNC Biostatistics PhD student <br/>
 
-Peter Guan (2022-2023), Biostatistics PhD student <br/>
+Peter Guan (2022-2023), UNC Biostatistics PhD student <br/>
 
 Ann Marie Weideman (2022-2024), UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) <br/>
