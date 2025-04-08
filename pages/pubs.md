@@ -8,7 +8,11 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Gui L, **Jiang Y**, Wang J. Aggregating Dependent Signals with Heavy-Tailed Combination Tests. ***Biometrika***, to appear, 2025. ([link](https://arxiv.org/abs/2310.20460v2))
+Tong CY, Li C, Hurni C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Naef F, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic analysis of circadian rhythmicity in mouse liver, ***bioRxiv***, 2025.
+
+Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification in population-scale single-cell data, ***bioRxiv***, 2025.
+
+Gui L, **Jiang Y**, Wang J. Aggregating dependent signals with heavy-tailed combination tests. ***Biometrika***, to appear, 2025. ([link](https://arxiv.org/abs/2310.20460v2))
 
 Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***Statistics in Biosciences***, 1-43, 2025. ([link](https://link.springer.com/article/10.1007/s12561-024-09466-1))
 
