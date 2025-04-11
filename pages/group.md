@@ -12,13 +12,13 @@ Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
 
-Changhao Li, TAMU Statistics Postdoctoral Research Associate
+Changhao Li, TAMU Postdoctoral Research Associate
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
 ### Past Members
 
-Gene Urrutia (2017-2018), UNC Biostatistics Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
+Gene Urrutia (2017-2018), UNC Postdoctoral Research Fellow, joint with [Dr. Haibo Zhou](http://sph.unc.edu/adv_profile/haibo-zhou-phd/) <br/>
 
 Rujin Wang (2018-2021), UNC Biostatistics PhD student, joint with [Dr. Danyu Lin](https://sph.unc.edu/adv_profile/danyu-lin-phd/) <br/>
 
