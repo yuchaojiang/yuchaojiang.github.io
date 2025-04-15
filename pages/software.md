@@ -4,6 +4,14 @@ title: Software
 description: Yuchao Jiang's software
 ---
 
+### Cancer Genomics and Intratumor Heterogeneity
+
+**Canopy**: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([CRAN](https://cran.r-project.org/web/packages/Canopy/index.html), [GitHub](https://github.com/yuchaojiang/Canopy), [vignettes](https://cran.rstudio.com/web/packages/Canopy/vignettes/Canopy_vignettes.pdf))
+
+**MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [vignettes](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
+
+**Canopy2**: Tumor phylogeny inference using bulk DNA and single-cell RNA sequencing ([GitHub](https://github.com/annweideman/canopy2/), [vignettes](https://htmlpreview.github.io/?https://github.com/annweideman/canopy2/blob/main/vignettes/canopy2.html))
+
 ### Copy Number Variation & Intratumor Heterogeneity
 
 **CODEX**: A normalization and copy number variation detection method for whole exome sequencing ([Bioconductor](http://www.bioconductor.org/packages/release/bioc/html/CODEX.html), [GitHub](https://github.com/yuchaojiang/CODEX), [vignettes](http://www.bioconductor.org/packages/release/bioc/vignettes/CODEX/inst/doc/CODEX_vignettes.pdf))
@@ -11,12 +19,6 @@ description: Yuchao Jiang's software
 **CODEX2**: Full-spectrum copy number variation detection by high-throughput DNA sequencing ([GitHub](https://github.com/yuchaojiang/CODEX2), [vignettes](http://htmlpreview.github.io/?https://github.com/yuchaojiang/CODEX2/blob/master/demo/CODEX2.html))
 
 **Falcon-X**: Allele-specific copy number estimation by whole-exome sequencing ([CRAN](https://CRAN.R-project.org/package=falconx))
-
-**Canopy**: Assessing intratumor heterogeneity and tracking longitudinal and spatial clonal evolutionary history by next-generation sequencing ([CRAN](https://cran.r-project.org/web/packages/Canopy/index.html), [GitHub](https://github.com/yuchaojiang/Canopy), [vignettes](https://cran.rstudio.com/web/packages/Canopy/vignettes/Canopy_vignettes.pdf))
-
-**MARATHON**: Integrative pipeline for profiling DNA copy number and inferring tumor phylogeny ([GitHub](https://github.com/yuchaojiang/MARATHON), [vignettes](https://rawgit.com/yuchaojiang/MARATHON/master/notebook/MARATHON.html))
-
-**Canopy2**: Tumor phylogeny inference using bulk DNA and single-cell RNA sequencing ([GitHub](https://github.com/annweideman/canopy2/))
 
 ### Single-Cell Omics
 
