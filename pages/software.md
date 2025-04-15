@@ -34,8 +34,12 @@ description: Yuchao Jiang's software
 
 **EPIC**: Inferring relevant tissues and cell types for complex traits by integrating genome-wide association studies and single-cell RNA sequencing ([GitHub](https://github.com/rujinwang/EPIC), [vignettes](http://htmlpreview.github.io/?https://github.com/rujinwang/EPIC/blob/master/vignettes/EPIC_vignette.html))
 
+**distQTL**: Distribution quantitative trait loci identification by population-scale single-cell data ([GitHub](https://github.com/alexandercoulter/distQTL), [vignettes](https://alexandercoulter.github.io/distQTL/intro-distQTL.html))
+
 ### DNA Damage, Repair, and Circadian Rhythm
 
-**Circadian rhythm**: [vignettes](https://htmlpreview.github.io/?https://github.com/wenwenm183/Circadian_Genes_Benchmark/blob/master/vignettes/Vignettes-of-Circadian-Paper.html)
+**Benchmarking methods for circadian rhythm detection**: [vignettes](https://htmlpreview.github.io/?https://github.com/wenwenm183/Circadian_Genes_Benchmark/blob/master/vignettes/Vignettes-of-Circadian-Paper.html)
 
 **DNA damage and excision repair**: [GitHub](https://github.com/yuchaojiang/damage_repair)
+
+**Single-cell multiomic analysis of circadian rhythmicity**: [GitHub](https://github.com/yuchaojiang/circadian_sc_multiomics)
