@@ -12,7 +12,7 @@ description: Yuchao Jiang's software
 
 **Canopy2**: Tumor phylogeny inference using bulk DNA and single-cell RNA sequencing ([GitHub](https://github.com/annweideman/canopy2/), [vignettes](https://htmlpreview.github.io/?https://github.com/annweideman/canopy2/blob/main/vignettes/canopy2.html))
 
-### Copy Number Variation & Intratumor Heterogeneity
+### Copy Number Variation
 
 **CODEX**: A normalization and copy number variation detection method for whole exome sequencing ([Bioconductor](http://www.bioconductor.org/packages/release/bioc/html/CODEX.html), [GitHub](https://github.com/yuchaojiang/CODEX), [vignettes](http://www.bioconductor.org/packages/release/bioc/vignettes/CODEX/inst/doc/CODEX_vignettes.pdf))
 
