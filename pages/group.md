@@ -8,11 +8,13 @@ description: Group members
 
 ### Current Members
 
-Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://web.stat.tamu.edu/~yni/)
+Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://nystat.github.io/yni/)
 
-Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](http://www.bios.unc.edu/~quefeng/)
+Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](https://quefengli.github.io/)
 
 Changhao Li, TAMU Postdoctoral Research Associate
+
+Ritwick Mondal, TAMU Statistics PhD student, joint with [Dr. Rajarshi Guhaniyogi](https://sites.google.com/view/rajguhaniyogi)
 
 Chun Yip (Anthony) Tong, TAMU Biology PhD student
 
