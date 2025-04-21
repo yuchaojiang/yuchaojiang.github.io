@@ -51,7 +51,7 @@ Mei W, Jiang Z, Chen L, Chen Y, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;<
 **Jiang Y<sup>&dagger;</sup><sup>&sect;</sup>**, Li W<sup>&dagger;</sup>, Lindsey-Boltz LA<sup>&dagger;</sup>, Yang Y, Li Y, Sancar A<sup>&sect;</sup>. Super hotspots and super coldspots in the repair of UV-induced DNA damage in the human genome. ***Journal of Biological Chemistry***, 296, 100581, 2021. ([link](https://linkinghub.elsevier.com/retrieve/pii/S0021-9258(21)00361-6))
 
 
-Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell gene expression heterogeneity under homeostatic shear stress. ***Arteriosclerosis, Thrombosis, and Vascular Biology***, 41 (10), 2575-2584, 2021. ([link](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316797))
+Liu Z, Ruter DL, Quigley K, **Jiang Y**, Bautch VL. Single-cell RNA sequencing reveals endothelial cell transcriptome heterogeneity under homeostatic laminar flow. ***Arteriosclerosis, Thrombosis, and Vascular Biology***, 41 (10), 2575-2584, 2021. ([link](https://www.ahajournals.org/doi/full/10.1161/ATVBAHA.121.316797))
 
 
 Wang Y, **Jiang Y**, Yao B, Huang K, Liu Y, Wang Y, Qin X, Chen L. WEVar: a novel supervised learning framework for predicting functional noncoding variants. ***Briefings in Bioinformatics***, 22 (6), bbab189, 2021. ([link](https://academic.oup.com/bib/article-abstract/22/6/bbab189/6279833?redirectedFrom=fulltext))
