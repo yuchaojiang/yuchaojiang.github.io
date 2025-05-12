@@ -8,7 +8,7 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Tong CY, Li C, Hurni C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Naef F, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic analysis of circadian rhythmicity in mouse liver. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.03.647044v1))
+Tong CY, Li C, Hurni C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Naef F, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic analysis of circadian rhythmicity in mouse liver. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.03.647044v2))
 
 Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification by population-scale single-cell data. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.04.647121v1))
 
