@@ -18,7 +18,7 @@ Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup
 
 Kose C, Lindsey-Boltz LA, Sancar A<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Genome-wide analysis of transcription-coupled repair reveals novel transcription events in Caenorhabditis elegans. ***PLOS Genetics***, 20 (7), e1011365, 2024. ([link](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1011365))
 
-Manickam A<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, 22 (1), qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
+Ashokkumar M<sup>&dagger;</sup>, Mei W<sup>&dagger;</sup>, Peterson JJ, Harigaya Y, Murdoch DM, Margolis DM, Oesterling A, Guo Z, Rudin CD, **Jiang Y<sup>&sect;</sup>**, Browne EP<sup>&sect;</sup>. Integrated single-cell multiomic analysis of HIV latency reversal reveals novel regulators of viral reactivation. ***Genomics, Proteomics & Bioinformatics***, 22 (1), qzae003, 2024. ([link](https://academic.oup.com/gpb/advance-article/doi/10.1093/gpbjnl/qzae003/7515255))
 
 
 Mann B, Zhang X, Bell N, Adefolaju A, Thang M, Dasari R, Valdivia A, Quinsey C, Rauf Y, Cassidy N, Yang Y, Viziri C, Rego S, **Jiang Y**, Dunn D, Floyd S, Baldwin A, Hingtgen S, Satterlee A. A living ex vivo platform for functional, personalized brain cancer diagnosis. ***Cell Reports Medicine***, 4 (6), 101042, 2023. ([link](https://doi.org/10.1016/j.xcrm.2023.101042))
