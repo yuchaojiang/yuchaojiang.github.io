@@ -30,11 +30,13 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 <div class="cv">
   <b>STAT446/646</b>, <i>Statistical Bioinformatics</i>, Spring 2024, Spring 2025 <br/> 
 Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
-[<a href="https://www.dropbox.com/scl/fi/zg7h9bpu035uhy9g46cj2/syllabus.pdf?rlkey=5eoa6ahsa3kg26w0vhzzvk3ot&dl=0" title="Syllabus">Syllabus</a>,
+[<a href="https://www.dropbox.com/scl/fi/wo3gwxhy22jckzn9tsy85/syllabus_Spring_2025.pdf?rlkey=omfqsvmcwc79elowa9e6fprd6&st=12qugjn2&dl=0" title="Syllabus">Syllabus</a>,
 	<a href="https://www.dropbox.com/scl/fi/xms8m6267witracs4crjd/evaluation.pdf?rlkey=cysvylhls37a9qrs116saw86s&st=p0tcjl0u&dl=0" title="Evaluation">Evaluation</a>]
 </div>
 <br/>
 <div class="cv">
   <b>BIOL349</b>, <i>Bioinformatics</i>, Fall 2025 <br/> 
 Department of Biology, College of Arts and Sciences, Texas A&M University <br/>
+[<a href="https://www.dropbox.com/scl/fi/p1pre6vhyhnfu5nbb24jt/BIOL349_Bioinformatics_syllabus_Yuchao_Jiang.pdf?rlkey=wgi4xgkuiyp1i5hkv0kz9u1nx&st=exawnntt&dl=0" title="Syllabus">Syllabus</a>]
+</div>
 <br/>
