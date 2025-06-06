@@ -12,7 +12,7 @@ Tong CY, Li C, Hurni C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Naef F, 
 
 Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification by population-scale single-cell data. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.04.647121v1))
 
-Gui L, **Jiang Y**, Wang J. Aggregating dependent signals with heavy-tailed combination tests. ***Biometrika***, to appear, 2025. ([link](https://arxiv.org/abs/2310.20460v2))
+Gui L, **Jiang Y**, Wang J. Aggregating dependent signals with heavy-tailed combination tests. ***Biometrika***, asaf038, 2025. ([link](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf038/8153900?utm_source=authortollfreelink&utm_campaign=biomet&utm_medium=email&guestAccessKey=1956b79e-6421-46f7-a5b0-e07d93e17090))
 
 Weideman AK<sup>&sect;</sup>, Wang R, Ibrahim JG<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Canopy2: tumor phylogeny inference by bulk DNA and single-cell RNA sequencing. ***Statistics in Biosciences***, 1-43, 2025. ([link](https://link.springer.com/article/10.1007/s12561-024-09466-1))
 
