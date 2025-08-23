@@ -10,7 +10,7 @@ description: Group members
 
 Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://nystat.github.io/yni/)
 
-Tengfei Cui, TAMU Statistics PhD student
+Tengfei Cui, TAMU Statistics PhD student, joint with [Dr. Jingshu Wang](https://jingshuw.org/)
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](https://quefengli.github.io/)
 
