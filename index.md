@@ -8,7 +8,7 @@ The Jiang Lab’s primary research interests lie in statistical modeling and met
 <div class="container">
     <div class="row-fluid">
             <b>Email</b>: yuchaojiang *at* tamu *dot* edu<br/>
-            <b>Office</b>:   <a href="https://goo.gl/maps/mgij72AP1XM583dJ9">Blocker</a> 459E (Statistics), <a href="https://maps.app.goo.gl/CUMohWAgZUnQEdh49">BSBW</a> 138 (Biology)
+            <b>Office</b>:   <a href="https://goo.gl/maps/mgij72AP1XM583dJ9">Blocker</a> 459E (Statistics), <a href="https://maps.app.goo.gl/CUMohWAgZUnQEdh49">BSBW</a> 138 (Biology)<br/>
             <b>Phone</b>: 979-845-3141<br/>
             <b>Official Pages</b>: <a href="https://artsci.tamu.edu/statistics/contact/profiles/yuchao-jiang.html">Statistics</a>, <a href="https://www.bio.tamu.edu/faculty-page-yuchao-jiang/">Biology</a>, <a href="https://engineering.tamu.edu/biomedical/profiles/jiang-yuchao.html">Biomedical Engineering</a><br/>
             <b>Personal Pages</b>: <a href="https://github.com/yuchaojiang">GitHub</a>, <a href="https://twitter.com/yuchaojiang">Twitter/X</a>, <a href="https://www.linkedin.com/in/yuchao-jiang-905b5125/">LinkedIn</a><br/>
