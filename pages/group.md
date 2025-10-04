@@ -8,7 +8,7 @@ description: Group members
 
 ### Current Members
 
-Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://nystat.github.io/yni/)
+Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://sites.google.com/view/yangnistat)
 
 Tengfei Cui, TAMU Statistics PhD student, joint with [Dr. Jingshu Wang](https://stat.uchicago.edu/people/profile/jingshu-wang/)
 
