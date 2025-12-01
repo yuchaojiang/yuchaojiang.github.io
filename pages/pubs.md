@@ -14,7 +14,7 @@ Ashokkumar M<sup>&dagger;</sup>, Ge RY<sup>&dagger;</sup>, Cooper-Volkheimer A, 
 
 Sarkar B, **Jiang Y**, Ni Y. Bayesian multivariable bidirectional Mendelian randomization. ***arXiv***, 2025. ([link](https://arxiv.org/abs/2510.09991))
 
-Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification by population-scale single-cell data. ***NAR Genomics and Bioinformatics***, in press, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.04.647121v2))
+Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification by population-scale single-cell data. ***NAR Genomics and Bioinformatics***, 7 (4), lqaf155, 2025. ([link](https://doi.org/10.1093/nargab/lqaf155))
 
 Gui L, **Jiang Y**, Wang J. Aggregating dependent signals with heavy-tailed combination tests. ***Biometrika***, asaf038, 2025. ([link](https://academic.oup.com/biomet/advance-article/doi/10.1093/biomet/asaf038/8153900?utm_source=authortollfreelink&utm_campaign=biomet&utm_medium=email&guestAccessKey=1956b79e-6421-46f7-a5b0-e07d93e17090))
 
