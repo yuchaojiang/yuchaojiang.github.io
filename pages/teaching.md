@@ -28,7 +28,7 @@ Curriculum in Bioinformatics and Computational Biology, School of Medicine, UNC 
 </div>
 <br/>
 <div class="cv">
-  <b>STAT446/646</b>, <i>Statistical Bioinformatics</i>, Spring 2024, Spring 2025 <br/> 
+  <b>STAT446/646</b>, <i>Statistical Bioinformatics</i>, Spring 2024, Spring 2025, Spring 2026 <br/> 
 Department of Statistics, College of Arts and Sciences, Texas A&M University <br/>
 [<a href="https://www.dropbox.com/scl/fi/wo3gwxhy22jckzn9tsy85/syllabus_Spring_2025.pdf?rlkey=omfqsvmcwc79elowa9e6fprd6&st=12qugjn2&dl=0" title="Syllabus">Syllabus</a>,
 	<a href="https://www.dropbox.com/scl/fi/xms8m6267witracs4crjd/evaluation.pdf?rlkey=cysvylhls37a9qrs116saw86s&st=p0tcjl0u&dl=0" title="Evaluation">Evaluation</a>]
