@@ -10,6 +10,7 @@ description: PI Info
             Associate Professor, <a href="https://stat.tamu.edu/">Department of Statistics</a>, College of Arts and Sciences<br/>
             Associate Professor, <a href="https://www.bio.tamu.edu/">Department of Biology</a>, College of Arts and Sciences<br/>
             Courtesy Affiliated Faculty, <a href="https://engineering.tamu.edu/biomedical/">Department of Biomedical Engineering</a>, College of Engineering<br/>
+            Founding Director, <a href="https://artsci.tamu.edu/statistics/academics/undergraduate/bs-in-bioinformatics.html/">Bachelor of Science in Bioinformatics</a>, College of Arts and Sciences
             Co-Director, <a href="https://statbio.stat.tamu.edu/">Center for Statistical Bioinformatics</a><br/>
             Affiliate Member, <a href="https://clocks.tamu.edu/">Center for Biological Clocks Research</a><br/>
             Faculty, <a href="https://genetics.tamu.edu/">Interdisciplinary Graduate Program in Genetics and Genomics</a><br/>
