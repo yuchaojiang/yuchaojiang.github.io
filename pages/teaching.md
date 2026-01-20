@@ -37,6 +37,6 @@ Department of Statistics, College of Arts and Sciences, Texas A&M University <br
 <div class="cv">
   <b>BIOL349</b>, <i>Bioinformatics</i>, Fall 2025 <br/> 
 Department of Biology, College of Arts and Sciences, Texas A&M University <br/>
-[<a href="https://www.dropbox.com/scl/fi/p1pre6vhyhnfu5nbb24jt/BIOL349_Bioinformatics_syllabus_Yuchao_Jiang.pdf?rlkey=wgi4xgkuiyp1i5hkv0kz9u1nx&st=exawnntt&dl=0" title="Syllabus">Syllabus</a>]
+[<a href="https://www.dropbox.com/scl/fi/p1pre6vhyhnfu5nbb24jt/BIOL349_Bioinformatics_syllabus_Yuchao_Jiang.pdf?rlkey=wgi4xgkuiyp1i5hkv0kz9u1nx&st=exawnntt&dl=0" title="Syllabus">Syllabus</a>, <a href="https://www.dropbox.com/scl/fi/7mjuxibu7wu9ceuxen316/student_evaluation.pdf?rlkey=2pxfa0hz3hey31r995365ul3m&st=89g1as6p&dl=0" title="Evaluation">Evaluation</a>]
 </div>
 <br/>
