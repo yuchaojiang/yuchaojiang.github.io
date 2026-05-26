@@ -8,8 +8,6 @@ description: Group members
 
 ### Current Members
 
-Alex Coulter, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://sites.google.com/view/yangnistat)
-
 Tengfei Cui, TAMU Statistics PhD student
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](https://quefengli.github.io/)
@@ -35,3 +33,5 @@ Peter Guan (2022-2023), UNC Biostatistics PhD student <br/>
 Ann Marie Weideman (2022-2024), UNC Biostatistics PhD student, joint with [Dr. Joe Ibrahim](https://sph.unc.edu/adv_profile/joseph-g-ibrahim-phd/) <br/>
 
 Changhao Li (2024-2025), TAMU Statistics Postdoctoral Associate <br/>
+
+Alex Coulter (2024-2026), TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://sites.google.com/view/yangnistat) <br/>
