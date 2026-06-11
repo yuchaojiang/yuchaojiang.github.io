@@ -8,9 +8,9 @@ description: Yuchao Jiang's publications
 
 &dagger; indicates co-first authors; &sect; indicates (co-)corresponding authors.
 
-Tong CY, Li C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic analysis of circadian rhythmicity in mouse liver. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.04.03.647044v3))
+Tong CY, Li C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic analysis of circadian rhythmicity in mouse liver. ***Genomics, Proteomics & Bioinformatics***, to appear, 2026. ([link](https://www.biorxiv.org/content/10.1101/2025.04.03.647044v3))
 
-Ashokkumar M<sup>&dagger;</sup>, Ge RY<sup>&dagger;</sup>, Cooper-Volkheimer A, Margolis DM, Li Q, **Jiang Y<sup>&sect;</sup>**, Murdoch DM<sup>&sect;</sup>, Browne EP<sup>&sect;</sup>. Single cell multiomic analysis of the impact of Delta-9-tetrahydrocannabinol on HIV infected CD4 T cells. ***bioRxiv***, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.06.02.657468v1))
+Ashokkumar M<sup>&dagger;</sup>, Ge RY<sup>&dagger;</sup>, Cooper-Volkheimer A, Margolis DM, Li Q, **Jiang Y<sup>&sect;</sup>**, Murdoch DM<sup>&sect;</sup>, Browne EP<sup>&sect;</sup>. Single cell multiomic analysis of the impact of Delta-9-tetrahydrocannabinol on HIV infected CD4 T cells. ***Journal of Cannabis Research***, 8 (1), 52, 2025. ([link](https://www.biorxiv.org/content/10.1101/2025.06.02.657468v1))
 
 Sarkar B, **Jiang Y**, Ni Y. Bayesian multivariable bidirectional Mendelian randomization. ***arXiv***, 2025. ([link](https://arxiv.org/abs/2510.09991))
 
