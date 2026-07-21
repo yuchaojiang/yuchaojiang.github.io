@@ -8,7 +8,7 @@ description: Group members
 
 ### Current Members
 
-Tengfei Cui, TAMU Statistics PhD student
+Tengfei Cui, TAMU Statistics PhD student, joint with [Dr. Yang Ni](https://sites.google.com/view/yangnistat) <br/>
 
 Renee Ge, UNC Biostatistics PhD student, joint with [Dr. Quefeng Li](https://quefengli.github.io/)
 
