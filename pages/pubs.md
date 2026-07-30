@@ -10,7 +10,7 @@ description: Yuchao Jiang's publications
 
 Tong CY, Li C, Jacq A, Nie X, Guy C, Suh JH, Wong R, Merlin C, Menet J<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. Single-cell multiomic and spatiotemporal dissection of the liver circadian clock. ***Genomics, Proteomics & Bioinformatics***, qzag050, 2026. ([link](https://doi.org/10.1093/gpbjnl/qzag050))
 
-Chakrabarti A, Ni Y, **Jiang Y**, Mallick BK. Nested atoms model with application to clustering big population-scale single-cell data. ***Annals of Applied Statistics***, to appear, 2026.
+Chakrabarti A, Ni Y, **Jiang Y**, Mallick BK. Nested atoms model with application to clustering big population-scale single-cell data. ***Annals of Applied Statistics***, to appear, 2026. ([link](https://www.e-publications.org/ims/submission/AOAS/user/submissionFile/72337?confirm=be7e65b0))
 
 Ashokkumar M<sup>&dagger;</sup>, Ge RY<sup>&dagger;</sup>, Cooper-Volkheimer A, Margolis DM, Li Q, **Jiang Y<sup>&sect;</sup>**, Murdoch DM<sup>&sect;</sup>, Browne EP<sup>&sect;</sup>. Single cell multiomic analysis of the impact of Delta-9-tetrahydrocannabinol on HIV infected CD4 T cells. ***Journal of Cannabis Research***, 8 (1), 52, 2026. ([link](https://link.springer.com/article/10.1186/s42238-026-00412-0))
 
