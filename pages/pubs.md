@@ -14,6 +14,8 @@ Chakrabarti A, Ni Y, **Jiang Y**, Mallick BK. Nested atoms model with applicatio
 
 Ashokkumar M<sup>&dagger;</sup>, Ge RY<sup>&dagger;</sup>, Cooper-Volkheimer A, Margolis DM, Li Q, **Jiang Y<sup>&sect;</sup>**, Murdoch DM<sup>&sect;</sup>, Browne EP<sup>&sect;</sup>. Single cell multiomic analysis of the impact of Delta-9-tetrahydrocannabinol on HIV infected CD4 T cells. ***Journal of Cannabis Research***, 8 (1), 52, 2026. ([link](https://link.springer.com/article/10.1186/s42238-026-00412-0))
 
+Nie X, Ahuja N, Hsieh A, Abbi G, **Jiang Y**, Menet J. Regulation of stereotypic chromatin conformations at enhancers by CLOCK:BMAL1. ***bioRxiv***, 2026. ([link](https://www.biorxiv.org/content/10.1101/2024.04.24.590818v2))
+
 Sarkar B, **Jiang Y**, Ge T, Ni Y. Multivariable Bidirectional Mendelian randomization via Bayesian directed cyclic graphical models with correlated errors. ***arXiv***, 2026. ([link](https://arxiv.org/abs/2510.09991))
 
 Coulter A, Tong CY, Ni Y<sup>&sect;</sup>, **Jiang Y<sup>&sect;</sup>**. distQTL: distribution quantitative trait loci identification by population-scale single-cell data. ***NAR Genomics and Bioinformatics***, 7 (4), lqaf155, 2025. (Editor's Choice Article; [link](https://doi.org/10.1093/nargab/lqaf155))
